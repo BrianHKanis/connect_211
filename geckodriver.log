@@ -1,0 +1,91 @@
+1683162247230	geckodriver	INFO	Listening on 127.0.0.1:58904
+1683162247475	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/gbzv52ws69l00vsdhgvg1sf00000gp/T/rust_mozprofilexeqHHo"
+1683162248137	Marionette	INFO	Marionette enabled
+2023-05-03 19:04:08.199 plugin-container[33017:2280114] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-03 19:04:08.199 plugin-container[33017:2280114] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1683162248201	Marionette	INFO	Listening on port 58916
+Read port: 58916
+2023-05-03 19:04:08.241 plugin-container[33017:2280114] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-03 19:04:08.241 plugin-container[33017:2280114] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-05-03 19:04:08.241 plugin-container[33017:2280152] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-03 19:04:08.241 plugin-container[33017:2280152] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:58905
+1683162248622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/rx/gbzv52ws69l00vsdhgvg1sf00000gp/T/rust_mozprofilexeqHHo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58905/devtools/browser/45e81244-b5f8-4212-9c96-17e37bbf60cd
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.airtable.com/js/lib/perimeterx/v1/PX0OZADU9K/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://airtable.com."
+1683162501538	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501542	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501545	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501549	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501556	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501559	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501572	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162501574	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://airtable.com/0OZADU9K/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683162524491	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524503	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524506	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524509	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524515	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524518	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524521	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683162524523	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://airtable.com/0OZADU9K/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1683163086627	geckodriver	INFO	Listening on 127.0.0.1:59164
+1683163086636	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/gbzv52ws69l00vsdhgvg1sf00000gp/T/rust_mozprofileXgOXd8"
+2023-05-03 19:18:07.224 plugin-container[33219:2289207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-03 19:18:07.224 plugin-container[33219:2289207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1683163087232	Marionette	INFO	Marionette enabled
+1683163087276	Marionette	INFO	Listening on port 59170
+2023-05-03 19:18:07.307 plugin-container[33219:2289207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-03 19:18:07.307 plugin-container[33219:2289207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-05-03 19:18:07.308 plugin-container[33219:2289205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-03 19:18:07.308 plugin-container[33219:2289205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 59170
+WebDriver BiDi listening on ws://127.0.0.1:59165
+1683163087580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/rx/gbzv52ws69l00vsdhgvg1sf00000gp/T/rust_mozprofileXgOXd8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59165/devtools/browser/b5739693-9aa8-4190-95a9-c8b47a4b11e7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.airtable.com/js/lib/perimeterx/v1/PX0OZADU9K/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://airtable.com."
+1683163157284	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157293	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157299	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157301	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157303	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157307	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157314	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683163157317	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://airtable.com/0OZADU9K/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1683166749057	Marionette	INFO	Stopped listening on port 58916
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1683166750996	Marionette	INFO	Stopped listening on port 59170
+1683223451883	geckodriver	INFO	Listening on 127.0.0.1:61743
+1683223452397	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/gbzv52ws69l00vsdhgvg1sf00000gp/T/rust_mozprofileBmAzH4"
+1683223452973	Marionette	INFO	Marionette enabled
+2023-05-04 12:04:12.992 plugin-container[34863:2427695] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-04 12:04:12.992 plugin-container[34863:2427695] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1683223453013	Marionette	INFO	Listening on port 61751
+Read port: 61751
+2023-05-04 12:04:13.117 plugin-container[34863:2427695] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-04 12:04:13.117 plugin-container[34863:2427695] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-05-04 12:04:13.118 plugin-container[34863:2427693] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-04 12:04:13.118 plugin-container[34863:2427693] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61744
+1683223453339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/rx/gbzv52ws69l00vsdhgvg1sf00000gp/T/rust_mozprofileBmAzH4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61744/devtools/browser/d42f924d-9382-499c-9505-51127f43001d
+1683223502400	Marionette	INFO	Stopped listening on port 61751
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
