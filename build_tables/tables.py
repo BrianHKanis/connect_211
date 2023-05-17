@@ -102,29 +102,3 @@ def build_dict_with_date_created(table_name):
         else:
             break
     return records_list
-
-
-# def build_df(table_name):
-#     url = f'https://api.airtable.com/v0/{base_id}/{table_id_dict[table_name]}'
-#     response = make_request(table_name)
-#     df = get_first_page(table_name)
-#     records = response.json()
-#     list_of_dfs = [df]
-#     offset = records['offset']
-#     offset_url = f'/?offset={offset}'
-#     p_url = url + offset_url
-#     while True:
-#         p_response = requests.get(p_url, headers=headers)
-#         p_json = p_response.json()
-#         p_records = p_json['records']
-#         p_records_list = [record['fields'] for record in p_records]
-#         p_df = pd.DataFrame(p_records_list)
-#         list_of_dfs.append(p_df)
-#         if 'offset' in p_json.keys():
-#             offset = p_json['offset']
-#             offset_url = f'/?offset={offset}'
-#             p_url = url + offset_url
-#         else:
-#             break
-#     data = pd.concat(list_of_dfs)
-#     return data

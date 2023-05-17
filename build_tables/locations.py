@@ -76,10 +76,6 @@ def complete_table():
     return locations_with_phones
 
 
-# locations_dict = build_dict('locations')
-# addresses_dict = build_dict('physical_addresses')
-# response = make_request('x-verification')
-
 # "id": ▹{...}, #
 # "location_type": ▹{...}, !
 # "url": ▹{...}, Service url? !
