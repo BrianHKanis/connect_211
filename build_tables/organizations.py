@@ -9,7 +9,7 @@ hsds_columns = ['id', 'name', 'alternate_name', 'description', 'email', 'website
 
 required= ['id', 'name', 'description']
 
-def delete_or_rename_columns(core_dict):
+def delete_or_rename_columns(core_dict: list) -> list:
     # Renames
     for record in core_dict:
         if 'url' in record.keys():

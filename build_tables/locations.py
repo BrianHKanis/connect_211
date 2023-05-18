@@ -64,7 +64,6 @@ def complete_table():
     location_records = build_dict('locations')
     address_records = build_dict('physical_addresses')
     locations_hsds = delete_or_rename_columns(location_records)
-    locations_hsds_complete = add_required_if_missing(locations_hsds)
     reduced_addresses = reduce_dict_multiple_values(address_records, 'id', ['address_1', 'x-address_2'])
     locations_with_addresses = get_addresses(locations_hsds, reduced_addresses)
     schedules_dict = build_dict('schedule')
@@ -73,7 +72,8 @@ def complete_table():
     phone_records = build_dict('phones')
     reduced_phones = reduce_dict(phone_records, 'id', 'number')
     locations_with_phones = get_phones(locations_with_schedules, reduced_phones)
-    return locations_with_phones
+    locations_hsds_complete = add_required_if_missing(locations_with_phones)
+    return locations_hsds_complete
 
 
 # "id": ▹{...}, #

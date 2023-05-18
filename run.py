@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 import time
+import csv
 from build_tables import organizations, services, locations, service_at_location, tables
 
 # Organizations
@@ -34,3 +35,5 @@ print('service at location: ' + str(service_at_location_total))
 # Total Time
 grand_total = organizations_total + services_total + locations_total + service_at_location_total
 print('Total: ' + str(grand_total))
+
+csv.
