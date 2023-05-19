@@ -1,14 +1,6 @@
 from build_tables.tables import build_dict, reduce_dict, reduce_dict_multiple_values
 from build_tables.tables import airtable_key, base_id, table_id_dict, headers
-
-hsds_columns = ["id", "organization_id", "program_id", "name", "alternate_name",
-            "description", "url", "email", "status", "interpretation_services",
-            "application_process", "fees_description", "wait_time", "fees",
-            "accreditations", "eligibility_description", "minimum_age", "maximum_age",
-            "assured_date", "assurer_email", "licenses", "alert", "last_modified",
-            "phones", "schedules", "service_areas", "service_at_locations", "languages",
-            "organization", "funding", "cost_options", "program", "required_documents",
-            "contacts", "attributes", "metadata"]
+from build_tables.hsds_columns import services_columns, schedule_columns, phones_columns
 
 required = ['id', 'name', 'status']
 
@@ -24,7 +16,7 @@ def delete_or_rename_columns(core_dict):
             record['service_at_locations'] = record['taxonomy_ids']
     for record in core_dict:
         for k, v in list(record.items()):
-            if k not in hsds_columns:
+            if k not in services_columns:
                 del record[k]
     return core_dict
 
@@ -65,6 +57,16 @@ def get_service_at_location(core_dict, reduced_tax_dict):
             record['service_at_locations'] = terms
     return core_dict
 
+def get_phones(core_dict, reduced_phone_dict):
+    for record in core_dict:
+        phone_numbers = []
+        if 'phones' in record.keys():
+            phone_ids = record['phones']
+            for phone_id in phone_ids:
+                phone_numbers.append(reduced_phone_dict[phone_id])
+            record['phones'] = phone_numbers
+    return core_dict
+
 def complete_table():
     service_records = build_dict('services')
     services_hsds = delete_or_rename_columns(service_records)
@@ -72,15 +74,18 @@ def complete_table():
     schedule_records = build_dict('schedule')
     address_records = build_dict('physical_addresses')
     taxonomy_records = build_dict('taxonomy_terms')
+    phone_records = build_dict('phones')
     
-    reduced_schedules = reduce_dict_multiple_values(schedule_records, 'id', ['opens_at', 'closes_at', 'byday', 'description'])
+    reduced_schedules = reduce_dict_multiple_values(schedule_records, 'id', schedule_columns)
     reduced_addresses = reduce_dict(address_records, 'location_ids', 'city')
     reduced_taxonomies = reduce_dict(taxonomy_records, 'id', 'term')
+    reduced_phones = reduce_dict_multiple_values(phone_records, 'id', phones_columns)
 
     services_with_service_at_location = get_service_at_location(services_hsds_all, reduced_taxonomies)
     services_with_schedules = get_schedules(services_with_service_at_location, reduced_schedules)
     services_with_addresses = get_service_area(services_with_schedules, reduced_addresses)
-    return services_with_addresses
+    services_with_phones = get_phones(services_with_addresses, reduced_phones)
+    return services_with_phones
 
 
 # HSDS 3.0

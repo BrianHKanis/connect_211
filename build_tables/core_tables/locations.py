@@ -1,11 +1,6 @@
 from build_tables.tables import build_dict, reduce_dict, reduce_dict_multiple_values
 from build_tables.tables import airtable_key, base_id, table_id_dict, headers
-
-hsds_columns = ["id", "location_type", "url", "organization_id", "name",
-                "alternate_name", "description", "transportation", "latitude",
-                "longitude", "external_identifier", "external_identifier_type",
-                "languages", "addresses", "contacts", "accessibility", "phones",
-                "schedules", "attributes", "metadata"]
+from build_tables.hsds_columns import locations_columns, address_columns, schedule_columns
 
 required = ['id', 'location_type']
 
@@ -17,7 +12,7 @@ def delete_or_rename_columns(core_dict):
     # Deletes
     for record in core_dict:
         for k, v in list(record.items()):
-            if k not in hsds_columns:
+            if k not in locations_columns:
                 del record[k]
     return core_dict
 
@@ -63,14 +58,16 @@ def get_phones(core_dict, reduced_phone_dict):
 def complete_table():
     location_records = build_dict('locations')
     address_records = build_dict('physical_addresses')
-    locations_hsds = delete_or_rename_columns(location_records)
-    reduced_addresses = reduce_dict_multiple_values(address_records, 'id', ['address_1', 'x-address_2'])
-    locations_with_addresses = get_addresses(locations_hsds, reduced_addresses)
-    schedules_dict = build_dict('schedule')
-    reduced_schedules = reduce_dict_multiple_values(schedules_dict, 'id', ['closes_at', 'opens_at', 'byday', 'description'])
-    locations_with_schedules = get_schedules(locations_with_addresses, reduced_schedules)
+    schedules_records = build_dict('schedule')
     phone_records = build_dict('phones')
+    locations_hsds = delete_or_rename_columns(location_records)
+
+    reduced_addresses = reduce_dict_multiple_values(address_records, 'id', address_columns)
+    reduced_schedules = reduce_dict_multiple_values(schedules_records, 'id', schedule_columns)
     reduced_phones = reduce_dict(phone_records, 'id', 'number')
+
+    locations_with_addresses = get_addresses(locations_hsds, reduced_addresses)
+    locations_with_schedules = get_schedules(locations_with_addresses, reduced_schedules)
     locations_with_phones = get_phones(locations_with_schedules, reduced_phones)
     locations_hsds_complete = add_required_if_missing(locations_with_phones)
     return locations_hsds_complete

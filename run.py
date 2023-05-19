@@ -2,11 +2,12 @@ import requests
 import pandas as pd
 import time
 import csv
-from build_tables import organizations, services, locations, service_at_location, tables
+from build_tables.core_tables import organizations, services, locations, service_at_location
+from build_tables import tables
 
 # Organizations
 start = time.time()
-orgs_dicts = organizations.complete_table()
+organizations_dicts = organizations.complete_table()
 stop = time.time()
 organizations_total = stop - start
 print('orgs: ' + str(organizations_total))

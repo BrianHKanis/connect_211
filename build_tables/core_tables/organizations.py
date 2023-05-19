@@ -1,11 +1,6 @@
-from build_tables.tables import build_dict, reduce_dict
+from build_tables.tables import build_dict, reduce_dict, reduce_dict_multiple_values
 from build_tables.tables import airtable_key, base_id, table_id_dict, headers
-
-hsds_columns = ['id', 'name', 'alternate_name', 'description', 'email', 'website',
-                         'tax_status', 'tax_id', 'year_incorporated', 'legal_status', 'logo',
-                         'uri', 'parent_organization', 'funding', 'contacts', 'phones',
-                         'locations', 'programs', 'organization_identifiers', 'attributes'
-                         'metadata']
+from build_tables.hsds_columns import organizations_columns, phones_columns
 
 required= ['id', 'name', 'description']
 
@@ -17,7 +12,7 @@ def delete_or_rename_columns(core_dict: list) -> list:
     # Deletes
     for record in core_dict:
         for k, v in list(record.items()):
-            if k not in hsds_columns:
+            if k not in organizations_columns:
                 del record[k]
     return core_dict
 
@@ -67,7 +62,7 @@ def complete_table():
     service_records = build_dict('services')
     taxonomy_records = build_dict('taxonomy_terms')
 
-    reduced_phones = reduce_dict(phone_records, 'id', 'number')
+    reduced_phones = reduce_dict_multiple_values(phone_records, 'id', phones_columns)
     reduced_locations = reduce_dict(location_records, 'id', 'name')
     reduced_services = reduce_dict(service_records, 'organization_ids', 'taxonomy_ids')
     reduced_taxonomy_terms = reduce_dict(taxonomy_records, 'id', 'term')

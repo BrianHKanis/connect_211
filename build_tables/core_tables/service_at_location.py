@@ -1,8 +1,6 @@
 from build_tables.tables import build_dict, reduce_dict, reduce_dict_multiple_values
 from build_tables.tables import airtable_key, base_id, table_id_dict, headers
-
-hsds_columns = ['id', 'service_id', 'location_id', 'description', 'contacts', 'phones'
-                'schedules', 'location', 'attributes', 'metadata']
+from build_tables.hsds_columns import services_at_location_columns
 
 required = ['id']
 
@@ -13,7 +11,7 @@ def delete_or_rename_columns(core_dict):
             record['location'] = record['locations']
     for record in core_dict:
         for k, v in list(record.items()):
-            if k not in hsds_columns:
+            if k not in services_at_location_columns:
                 del record[k]
     return core_dict
 
