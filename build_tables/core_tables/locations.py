@@ -22,6 +22,7 @@ def add_required_if_missing(core_dict):
             record['location_type'] = ''
         if 'id' not in record.keys():
             record['id'] = ''
+    return core_dict
 
 def get_addresses(core_dict, reduced_addresses_dict):
     for record in core_dict:
@@ -55,16 +56,25 @@ def get_phones(core_dict, reduced_phone_dict):
             record['phones'] = phone_numbers
     return core_dict
 
+# def get_contacts(core_dict, reduced_contact_dict)
+#     pass
+
 def complete_table():
     location_records = build_dict('locations')
     address_records = build_dict('physical_addresses')
     schedules_records = build_dict('schedule')
     phone_records = build_dict('phones')
+    # contact_records = build_dict('contacts')
+
     locations_hsds = delete_or_rename_columns(location_records)
+
+    # reduced_contacts = reduce_dict_multiple_values()
+
 
     reduced_addresses = reduce_dict_multiple_values(address_records, 'id', address_columns)
     reduced_schedules = reduce_dict_multiple_values(schedules_records, 'id', schedule_columns)
     reduced_phones = reduce_dict(phone_records, 'id', 'number')
+
 
     locations_with_addresses = get_addresses(locations_hsds, reduced_addresses)
     locations_with_schedules = get_schedules(locations_with_addresses, reduced_schedules)
@@ -72,7 +82,7 @@ def complete_table():
     locations_hsds_complete = add_required_if_missing(locations_with_phones)
     return locations_hsds_complete
 
-
+# HSDS
 # "id": ▹{...}, #
 # "location_type": ▹{...}, !
 # "url": ▹{...}, Service url? !
@@ -94,5 +104,6 @@ def complete_table():
 # "attributes": ▹{...}, !
 # "metadata": ▹{...} !
 
+# Airtable
 # ['services', 'name', 'organization', 'address', 'id', 'organization_ids',
 # 'service_ids', 'geocode', 'phones', 'schedule', 'description', 'alternate_name']

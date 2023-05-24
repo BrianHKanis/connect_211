@@ -33,3 +33,7 @@ phones_columns = ['id', 'number', 'extension', 'type', 'description', 'languages
 
 address_columns = ['id', 'attention', 'address_1', 'address_2', 'city', 'region',
                    'state_province', 'postal_code', 'country', 'address_type']
+
+programs_columns = ['id', 'term', 'alternate_name', 'description'] # 'term' --> 'name'
+
+contact_columns = ['id', 'name', 'title', 'department', 'email', 'phones']

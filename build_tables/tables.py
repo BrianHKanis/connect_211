@@ -34,20 +34,21 @@ def build_dict(table_name):
     response = make_request(table_name)
     records_json = response.json()
     records_list = records_json['records']
-    offset = records_json['offset']
-    offset_url = f'/?offset={offset}'
-    next_url = url + offset_url
-    while True:
-        next_response = requests.get(next_url, headers=headers)
-        next_json = next_response.json()
-        next_records_list = next_json['records']
-        records_list.extend(next_records_list)
-        if 'offset' in next_json.keys():
-            offset = next_json['offset']
-            offset_url = f'/?offset={offset}'
-            next_url = url + offset_url
-        else:
-            break
+    if 'offset' in records_json.keys():
+        offset = records_json['offset']
+        offset_url = f'/?offset={offset}'
+        next_url = url + offset_url
+        while True:
+            next_response = requests.get(next_url, headers=headers)
+            next_json = next_response.json()
+            next_records_list = next_json['records']
+            records_list.extend(next_records_list)
+            if 'offset' in next_json.keys():
+                offset = next_json['offset']
+                offset_url = f'/?offset={offset}'
+                next_url = url + offset_url
+            else:
+                break
     records = [record['fields'] for record in records_list]
     return records
 
@@ -74,13 +75,12 @@ def reduce_dict_multiple_values(main_dict, key_name, value_names):
                 key = record[key_name]
             else:
                 key = record[key_name][0]
-            values_list = []
+            values_dict = {}
             for value_name in value_names:
                 if value_name in record.keys():
                     value = record[value_name]
-                    value_dict = {value_name: value}
-                    values_list.append(value_dict)
-            reduced_dict[key] = values_list
+                    values_dict[value_name] = value
+            reduced_dict[key] = values_dict
     return reduced_dict
 
 def build_dict_with_date_created(table_name):
@@ -103,3 +103,14 @@ def build_dict_with_date_created(table_name):
         else:
             break
     return records_list
+
+
+
+# Re-factor
+
+def build_all():
+    tables = {}
+    for key in table_id_dict.keys():
+        table = build_dict(key)
+        tables[key] = table
+    return tables
