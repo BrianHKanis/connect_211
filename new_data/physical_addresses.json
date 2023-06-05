@@ -1,0 +1,4847 @@
+[
+    {
+        "address_1": "27030 102nd Ave. NW",
+        "city": "Stanwood",
+        "id": "rec0MtiXM7SPZVGEH",
+        "location_ids": [
+            "recvmsjoLMIwzn7gL"
+        ],
+        "locations": [
+            "recvmsjoLMIwzn7gL"
+        ],
+        "postal_code": "98292",
+        "state": "WA"
+    },
+    {
+        "address_1": "155 NE 100th St.",
+        "city": "Seattle",
+        "id": "rec0drc19hdeXoMzF",
+        "location_ids": [
+            "rec4pyBriogw0eKgj"
+        ],
+        "locations": [
+            "rec4pyBriogw0eKgj"
+        ],
+        "postal_code": "98125",
+        "state": "WA",
+        "x-address_2": "Suite 100"
+    },
+    {
+        "address_1": "2026 Division St.",
+        "city": "Bellingham",
+        "id": "rec0rLitMUhWx1yvv",
+        "location_ids": [
+            "recEnChy0eithG2Y3"
+        ],
+        "locations": [
+            "recEnChy0eithG2Y3"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recGDnJS0IQqrOOZE"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "210 Central Ave.",
+        "city": "Bellingham",
+        "id": "rec15gXHNqOLM8qoC",
+        "location_ids": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "locations": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recNJjab2G1bYhuM8",
+            "recdJg0Em5PZ7fa1s",
+            "recDjal9Q8Npc6PcL",
+            "rec1N5u4XGsSR6815",
+            "recUnMCECLm4OR93U",
+            "recNoqlRAzx1qqiOh",
+            "recLmmKNt1EblyJJu",
+            "recDBS8KvNKoFll0K"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "5781 Hendrickson Ave.",
+        "city": "Ferndale ",
+        "id": "rec19zyp9iZNSn5qy",
+        "location_ids": [
+            "recszv2cfNQGaidgD"
+        ],
+        "locations": [
+            "recszv2cfNQGaidgD"
+        ],
+        "postal_code": "98248",
+        "state": "WA"
+    },
+    {
+        "address_1": "1825 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "rec1LjyMqcEpmVxHO",
+        "location_ids": [
+            "recqOhqUEFA5wusbt",
+            "reciuJmfF1DRHEwv9"
+        ],
+        "locations": [
+            "recqOhqUEFA5wusbt",
+            "reciuJmfF1DRHEwv9"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recTYArP4Y4WAPJNp",
+            "recGCzJVTzPBlDQdF"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "5016 Deming Rd.",
+        "city": "Deming",
+        "id": "rec1LnhhyTdstLPGj",
+        "location_ids": [
+            "recnwtI25p0oGwVGG"
+        ],
+        "locations": [
+            "recnwtI25p0oGwVGG"
+        ],
+        "postal_code": "98244",
+        "state": "WA"
+    },
+    {
+        "address_1": "2172 Division St.",
+        "city": "Bellingham",
+        "id": "rec1SdXeDJJmAVVvM",
+        "location_ids": [
+            "rechlMWQUikusvb5f"
+        ],
+        "locations": [
+            "rechlMWQUikusvb5f"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recGqaHrGreIcuNgW",
+            "recdozxTGtkatJCdQ",
+            "recQOJBQjXeZ266Ug"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4350 Cordata Pkwy",
+        "city": "Bellingham",
+        "id": "rec1XZnNXLzfyzOVG",
+        "location_ids": [
+            "rec04kgGs9yOJLzjE"
+        ],
+        "locations": [
+            "rec04kgGs9yOJLzjE"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recoks2DPAZqnzamd"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 100"
+    },
+    {
+        "address_1": "382 Boblett St.",
+        "city": "Blaine ",
+        "id": "rec1boDhv1mroudQh",
+        "postal_code": "98230",
+        "state": "WA"
+    },
+    {
+        "address_1": "4882 Samish Way",
+        "city": "Bellingham",
+        "id": "rec1u9FWqyWblM3fh",
+        "location_ids": [
+            "rec6kRi8k9mom523D"
+        ],
+        "locations": [
+            "rec6kRi8k9mom523D"
+        ],
+        "postal_code": "98229",
+        "state": "WA"
+    },
+    {
+        "address_1": "3125 Old Fairhaven Pkwy.",
+        "city": "Bellingham",
+        "id": "rec29PPpEag4CyTR9",
+        "location_ids": [
+            "recLsXiOfxSAZSAXd"
+        ],
+        "locations": [
+            "recLsXiOfxSAZSAXd"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recvgLerB7uwPlEGi"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 106"
+    },
+    {
+        "address_1": "216 W. Champion St.",
+        "city": "Bellingham",
+        "id": "rec2REQZQ6gkNOxmP",
+        "location_ids": [
+            "reco88nSPjs8vU7XP"
+        ],
+        "locations": [
+            "reco88nSPjs8vU7XP"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recD82JVXIMI5X6G4"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1111 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "rec2ccS897JYnuNmi",
+        "location_ids": [
+            "recaHTvpft3y3CWcQ"
+        ],
+        "locations": [
+            "recaHTvpft3y3CWcQ"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reck2H5d8LkyIWmiT",
+            "recerbCimUhaGY8QQ",
+            "recr69IDkbt5e6Q5V",
+            "recuu4MmCSpQrLNIT",
+            "recTY23n81gieSDrf",
+            "rec0q0y5OZY55lhKA",
+            "recqiAvBnpSJQs1OW",
+            "recUcPyJrqmHUaAwG",
+            "recvEuwdPujXE3y11",
+            "receiilFq21FvoxRc",
+            "recJKQpXLMF7627X1"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite C"
+    },
+    {
+        "address_1": "5694 2nd Ave.",
+        "city": "Ferndale",
+        "id": "rec35TFRvk1ZNYMe6",
+        "location_ids": [
+            "recgZBmhGxBuBZNdW"
+        ],
+        "locations": [
+            "recgZBmhGxBuBZNdW"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "recmBhewm2Dhl9Zbq",
+            "rec4fTe6x6pfSbhUZ"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2750 McLeod Rd",
+        "city": "Bellingham",
+        "id": "rec3GM8oGjXsGED8L",
+        "location_ids": [
+            "recewlwcCLFdCYSdx"
+        ],
+        "locations": [
+            "recewlwcCLFdCYSdx"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recHvUVkLCdxGwiCp"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "207 Kentucky St.",
+        "city": "Bellingham",
+        "id": "rec3GpnJKoIZ7HQNt",
+        "location_ids": [
+            "recOlypQcw46VESpP"
+        ],
+        "locations": [
+            "recOlypQcw46VESpP"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recSEAf5eXiUedCQX",
+            "recoux7pBAyYswdoG"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2130 James St.",
+        "city": "Bellngham",
+        "id": "rec3lvXQZqYBKyO7b",
+        "location_ids": [
+            "recPkGiGbFk7zJcUE"
+        ],
+        "locations": [
+            "recPkGiGbFk7zJcUE"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "275 SE Pioneer Way ",
+        "city": "Oak Harbor",
+        "id": "rec3nXCCBgSheqb4G",
+        "location_ids": [
+            "recRRVIRZdTOIzP7l"
+        ],
+        "locations": [
+            "recRRVIRZdTOIzP7l"
+        ],
+        "postal_code": "98277",
+        "state": "WA",
+        "x-address_2": "Suite 201"
+    },
+    {
+        "address_1": "1616 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "rec3qpikLYrl3bcSW",
+        "location_ids": [
+            "recPTjQSHhOecMwfp"
+        ],
+        "locations": [
+            "recPTjQSHhOecMwfp"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recfYBTAsYxzYkyVs",
+            "rec1DhaHj8sJ4SctU"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "954 E. Hemmi Rd.",
+        "city": "Everson",
+        "id": "rec43UVh8iI0JUEMs",
+        "location_ids": [
+            "rec1qe2MghDLFlvH6"
+        ],
+        "locations": [
+            "rec1qe2MghDLFlvH6"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "recbmmX3c4U3s19Pf"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2505 Sulwhanon Dr.",
+        "city": "Everson",
+        "id": "rec461IrfmNDCWuxM",
+        "location_ids": [
+            "rechqTLrHMQrZTLSw",
+            "reconBfBFzVY8mv63"
+        ],
+        "locations": [
+            "rechqTLrHMQrZTLSw",
+            "reconBfBFzVY8mv63"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "recR1o1eBBBpTym5C",
+            "recZX3x9Aeo5eeVEg"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "13 Prospect St. ",
+        "city": "Bellingham",
+        "id": "rec4DAtCbQfx6P8Rw",
+        "location_ids": [
+            "recwRqJBaULa09832"
+        ],
+        "locations": [
+            "recwRqJBaULa09832"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recR0AHvyIonbDi3H",
+            "recAUnT2qNaHwkvsW",
+            "recbmWjKIfMjF4L08",
+            "reci5T6W5oKvz4jS2",
+            "recWgf4s0ABeJeC6n",
+            "recGpesOR8rOM5LZA",
+            "recFYHjR2uXoOBvBT",
+            "recdKkXX72o7qyt3y",
+            "recz7mh1StajmtAK5",
+            "reciMCYY8ESEWzHvA",
+            "recET7vJAIktzfcEx",
+            "recxpkg5SPuzSgjnm",
+            "recQv4pIBxmcRw3IO",
+            "recBzMo1T26Uh8Vde"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 201"
+    },
+    {
+        "address_1": "1714 Grant St.",
+        "city": "Bellingham",
+        "id": "rec4mP0LPixzD04Ul",
+        "location_ids": [
+            "recLjUue7wgTm8mYF"
+        ],
+        "locations": [
+            "recLjUue7wgTm8mYF"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "305 Flora St.",
+        "city": "Bellingham",
+        "id": "rec4sNhRwPXCykJxv",
+        "location_ids": [
+            "recxrVyXNR0WExCGM"
+        ],
+        "locations": [
+            "recxrVyXNR0WExCGM"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recMSG9CWVnLJOnGw"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "6th and Main St.",
+        "city": "Coupeville",
+        "id": "rec533jHFToTCS5X6",
+        "location_ids": [
+            "recXs1px80LAgXNKP"
+        ],
+        "locations": [
+            "recXs1px80LAgXNKP"
+        ],
+        "postal_code": "98239",
+        "state": "WA"
+    },
+    {
+        "address_1": "3225 Woburn St.",
+        "city": "Bellingham",
+        "id": "rec57sDHLbmO9Fj9k",
+        "location_ids": [
+            "recoXKDWjFN6H7cY7"
+        ],
+        "locations": [
+            "recoXKDWjFN6H7cY7"
+        ],
+        "postal_code": "98226",
+        "state": "WA",
+        "x-address_2": "Ste. 220"
+    },
+    {
+        "address_1": "721 Van Wyck Rd.",
+        "city": "Bellingham",
+        "id": "rec5RY3bmlKrKie6e",
+        "postal_code": "98226",
+        "state": "WA",
+        "x-type": [
+            "Physical Address"
+        ]
+    },
+    {
+        "address_1": "1900 25th Ave. S.",
+        "city": "Seattle",
+        "id": "rec5WWRI6KZDWAYp2",
+        "location_ids": [
+            "recFNsNp3shm1hZCl"
+        ],
+        "locations": [
+            "recFNsNp3shm1hZCl"
+        ],
+        "postal_code": "982144",
+        "state": "WA"
+    },
+    {
+        "address_1": "1114 Potter Ave.",
+        "city": "Bellingham",
+        "id": "rec5jDLl5arWzFUOJ",
+        "location_ids": [
+            "recVaJ0XKXHs80L7O"
+        ],
+        "locations": [
+            "recVaJ0XKXHs80L7O"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "rec8yLsiHAYHoKlhn",
+            "recYSXHi7oGv3pYk5"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1998 Midway Ln.",
+        "city": "Bellingham",
+        "id": "rec5mdQ4cf0ljcN27",
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "401 Grover St.",
+        "city": "Lynden",
+        "id": "rec6UBat7hkjUa1vB",
+        "location_ids": [
+            "rec7Ic0exJmwsHyUM"
+        ],
+        "locations": [
+            "rec7Ic0exJmwsHyUM"
+        ],
+        "postal_code": "98264",
+        "services": [
+            "recAeR3c4KbW4flNs",
+            "recTHojdbPuxLKFE6"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4534 Haxton Way",
+        "city": "Ferndale ",
+        "id": "rec6fLDlt31cmppiX",
+        "location_ids": [
+            "rec7jOzY8EqonvYIv"
+        ],
+        "locations": [
+            "rec7jOzY8EqonvYIv"
+        ],
+        "postal_code": "98248",
+        "state": "WA"
+    },
+    {
+        "address_1": "1231 N. Garden St.",
+        "city": "Bellingham",
+        "id": "rec6vVYDKDY6dIGjy",
+        "location_ids": [
+            "recBL6Px0NLooAHhw"
+        ],
+        "locations": [
+            "recBL6Px0NLooAHhw"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 210"
+    },
+    {
+        "address_1": "2710 W. Maplewood Ave.",
+        "city": "Bellingham",
+        "id": "rec7d3Rq5gdV0GbTx",
+        "location_ids": [
+            "rec4UE14UidTWCqHs"
+        ],
+        "locations": [
+            "rec4UE14UidTWCqHs"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1000 Second Ave.",
+        "city": "Seattle",
+        "id": "rec7eXP2mowCmvlub",
+        "location_ids": [
+            "rec7brmxm4LMxUU4Y"
+        ],
+        "locations": [
+            "rec7brmxm4LMxUU4Y"
+        ],
+        "postal_code": "98104",
+        "state": "WA",
+        "x-address_2": "Suite 2700"
+    },
+    {
+        "address_1": "PO Box 2321",
+        "city": "Bellingham",
+        "id": "rec7lKnR4QYnOORWP",
+        "location_ids": [
+            "recplHSHSe0FCX04r"
+        ],
+        "locations": [
+            "recplHSHSe0FCX04r"
+        ],
+        "postal_code": "98227",
+        "state": "WA"
+    },
+    {
+        "address_1": "2602 McLeod Rd.",
+        "city": "Bellingham",
+        "id": "rec816WVA13ts61sr",
+        "location_ids": [
+            "reckeiCHL8ePSQazT"
+        ],
+        "locations": [
+            "reckeiCHL8ePSQazT"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rechzUwShcdqiF4qK",
+            "recBuvLAnapmvEPUG",
+            "recBkrmzGMiA12JSt",
+            "rec2EWs4hEObUW87Z",
+            "rec2dKHgbhDwMKZAm",
+            "recHPYjzHXLOZw09U"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "600 Lakeway Dr.",
+        "city": "Bellingham",
+        "id": "rec8lqz1bV2TbHoaq",
+        "location_ids": [
+            "recKFfwjpl7jaSprr"
+        ],
+        "locations": [
+            "recKFfwjpl7jaSprr"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recsqJuoXXjNaGNJn",
+            "recGJe8Efh615pl3E",
+            "recU7VKpccWSGOyAi",
+            "rec4BzE7ce0p0J6e8",
+            "recAd5jYy3XqnH8Yj",
+            "recMZIj3x9r9V6DiV",
+            "rec0KYcQiUoft2AzM",
+            "rec6h2UaEGRMLXS5f",
+            "recmxF6GVf144kNae"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "516 Main St.",
+        "city": "Lynden",
+        "id": "rec95eW8jx1Tydjep",
+        "location_ids": [
+            "recbeBRFIAsmEwwML"
+        ],
+        "locations": [
+            "recbeBRFIAsmEwwML"
+        ],
+        "postal_code": "98264",
+        "services": [
+            "recReyhpE0xb0Lj69"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "PO Box 1559",
+        "city": "Bellingham",
+        "id": "rec9FKYK9YKjmcfh3",
+        "location_ids": [
+            "recKKHJtFFM2QIr9U"
+        ],
+        "locations": [
+            "recKKHJtFFM2QIr9U"
+        ],
+        "postal_code": "98227",
+        "state": "WA"
+    },
+    {
+        "address_1": "2185 Ferndale Terr.",
+        "city": "Ferndale",
+        "id": "rec9Xjawf180JHzMV",
+        "location_ids": [
+            "recHCF2ChzjiTC3OW"
+        ],
+        "locations": [
+            "recHCF2ChzjiTC3OW"
+        ],
+        "postal_code": "98248",
+        "state": "WA"
+    },
+    {
+        "address_1": "2219 Rimland Dr.",
+        "city": "Bellingham",
+        "id": "rec9m3yLhlvfQ0Lgm",
+        "location_ids": [
+            "recc7yGjTlBBdvSbJ"
+        ],
+        "locations": [
+            "recc7yGjTlBBdvSbJ"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "receVHGS8vwDhEtuB",
+            "recXD50WVmBOaNUM9",
+            "recP2hL7T0TCMAwho",
+            "recjGdZbS5cdCDB1b",
+            "rect7hgXqQyPfLxsf",
+            "recdThWAdsiyPtBzS",
+            "recf490ZdWxSK6wic",
+            "recpgYloufUzlacJS"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 301"
+    },
+    {
+        "address_1": "2021 9th Ave.",
+        "city": "Seattle",
+        "id": "recA5mpwgi15lqQhY",
+        "location_ids": [
+            "recCzIMS2BbGkiZXr"
+        ],
+        "locations": [
+            "recCzIMS2BbGkiZXr"
+        ],
+        "postal_code": "98121",
+        "services": [
+            "recHyEdea2rS0mtGs"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4180 Cordata Pkwy. ",
+        "city": "Bellingham",
+        "id": "recADVIsCm9Pc6nRj",
+        "location_ids": [
+            "recV8wW47SknzMghb"
+        ],
+        "locations": [
+            "recV8wW47SknzMghb"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rec16JlvWoBrHAn1a"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1026 N. Forest St.",
+        "city": "Bellingham",
+        "id": "recAGRcFaFbW7QFwD",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "6395 Portal Way ",
+        "city": "Ferndale ",
+        "id": "recAILI5jlPhagD13",
+        "location_ids": [
+            "reckHldOZKKIEA0AI"
+        ],
+        "locations": [
+            "reckHldOZKKIEA0AI"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "recXuZYXZNJpZBcGO"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "950 Kline Rd.",
+        "city": "Bellingham",
+        "id": "recAMrfpRKZA97DvA",
+        "location_ids": [
+            "recYP8EUyrCajWZcr"
+        ],
+        "locations": [
+            "recYP8EUyrCajWZcr"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recgfhWdV0ZamHrTA"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "8251 Kendall Rd.",
+        "city": "Maple Falls",
+        "id": "recAO9sl0aolGAwV1",
+        "location_ids": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "locations": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "postal_code": "98266",
+        "services": [
+            "recQxRwSvWvkXtVdi",
+            "recUcPyJrqmHUaAwG"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2817 Meridian St. ",
+        "city": "Bellingham",
+        "id": "recAV1NeBKTZJgoIq",
+        "location_ids": [
+            "recyCQ9RwSeNl5Txk"
+        ],
+        "locations": [
+            "recyCQ9RwSeNl5Txk"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1110 14th St.",
+        "city": "Bellingham",
+        "id": "recAVu30N4xtNQ4xY",
+        "location_ids": [
+            "recIfyvmWXmjiJp1E"
+        ],
+        "locations": [
+            "recIfyvmWXmjiJp1E"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec1Lmu6yz0Yr8McX"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1971 Midway Ln.",
+        "city": "Bellingham",
+        "id": "recAZGTdeXjYBzTEy",
+        "location_ids": [
+            "recgbZul20R6Tqa5X"
+        ],
+        "locations": [
+            "recgbZul20R6Tqa5X"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recZFZNDgu152HPYh"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite C"
+    },
+    {
+        "address_1": "162 W. Laurel Rd.",
+        "city": "Bellingham",
+        "id": "recAchvLbsIFrSFB0",
+        "location_ids": [
+            "recpSyu546iFGiLQq"
+        ],
+        "locations": [
+            "recpSyu546iFGiLQq"
+        ],
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "461 2nd St.",
+        "city": "Sumas",
+        "id": "recAtoaTO9PUId1wC",
+        "location_ids": [
+            "recHd8W8iXZcJkO77"
+        ],
+        "locations": [
+            "recHd8W8iXZcJkO77"
+        ],
+        "postal_code": "98295",
+        "services": [
+            "recSJUoBFwf0R58Ck",
+            "receELzXL1ARI6qd3"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2015 Cherry Street",
+        "city": "Ferndale",
+        "id": "recAvTYVoL51QIAgy",
+        "location_ids": [
+            "recmG18KyyeTXN5CH"
+        ],
+        "locations": [
+            "recmG18KyyeTXN5CH"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "reccsPXWUZymm5nvM"
+        ],
+        "state": "Washington"
+    },
+    {
+        "address_1": "134 Harrisson St.",
+        "city": "Sumas",
+        "id": "recB1xmZoB8Gkc40u",
+        "location_ids": [
+            "recDuFlCxtwaPnGDw"
+        ],
+        "locations": [
+            "recDuFlCxtwaPnGDw"
+        ],
+        "postal_code": "98295",
+        "state": "WA"
+    },
+    {
+        "address_1": "1884 Kelly Rd.",
+        "city": "Bellingham",
+        "id": "recB3NehltBH6f72j",
+        "location_ids": [
+            "recXAxDIVmf1kRtNT"
+        ],
+        "locations": [
+            "recXAxDIVmf1kRtNT"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "reczOIBcvt2lKdC7C"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "350 SE Pioneer Way ",
+        "city": "Oak Harbor",
+        "id": "recC8XOyzIu7NOSIe",
+        "location_ids": [
+            "recS2hWbz4vlSZHDo"
+        ],
+        "locations": [
+            "recS2hWbz4vlSZHDo"
+        ],
+        "postal_code": "98277",
+        "state": "WA",
+        "x-address_2": "Suite 101"
+    },
+    {
+        "address_1": "1330 Lincoln St.",
+        "city": "Bellingham",
+        "id": "recCKnx6xYCRjnI38",
+        "location_ids": [
+            "rec2dxAXLyeoYPjov"
+        ],
+        "locations": [
+            "rec2dxAXLyeoYPjov"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reciMAUWn3vXUMs3l"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "5380 Maxwelton Rd.",
+        "city": "Langley",
+        "id": "recCQqHZBCECotQT3",
+        "location_ids": [
+            "recwhMuu6hTf45gDl"
+        ],
+        "locations": [
+            "recwhMuu6hTf45gDl"
+        ],
+        "postal_code": "98260",
+        "state": "WA"
+    },
+    {
+        "address_1": "1791 NE 1st St.",
+        "city": "Oak Harbor",
+        "id": "recCS6mLdw9GgcTRl",
+        "postal_code": "98277",
+        "state": "WA",
+        "x-address_2": "Suite 1"
+    },
+    {
+        "address_1": "1415 Commercial St.",
+        "city": "Bellingham",
+        "id": "recCatDhsUIogvWOM",
+        "location_ids": [
+            "recqh0YTBwxVwCq8Y"
+        ],
+        "locations": [
+            "recqh0YTBwxVwCq8Y"
+        ],
+        "postal_code": "98227",
+        "services": [
+            "recGnyJWi0B8lVhp1",
+            "recKOnPmzqYkEkanK",
+            "recHsqUIU8kF8GxiZ",
+            "recLmmKNt1EblyJJu",
+            "recmYaBJOOBOzZRVy",
+            "rec1rwRnvD67ZMjFo",
+            "reckaHmYgK6QAQI9G",
+            "recf4rV7OS0b2T8tO"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "316 E McLeod Rd.",
+        "city": "Bellingham ",
+        "id": "recCebvbMIxsu8mOY",
+        "location_ids": [
+            "recaj289Rn37fB5QR"
+        ],
+        "locations": [
+            "recaj289Rn37fB5QR"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rec5IM7EvIKPSEYro",
+            "recoATm3yi3pL96Sg",
+            "recR6FCdndK985fH5"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 108"
+    },
+    {
+        "address_1": "495 E Bakerview Rd.",
+        "city": "Bellingham",
+        "id": "recCkZv13YucVHJLE",
+        "location_ids": [
+            "rec3rJdfvGYBuWwbG"
+        ],
+        "locations": [
+            "rec3rJdfvGYBuWwbG"
+        ],
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "3645 E McLeod Rd.",
+        "city": "Bellingham",
+        "id": "recClCoBr5uNfaVJX",
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "1959 NE Pacific St.",
+        "city": "Seattle",
+        "id": "recCtAgwCH261k7y8",
+        "location_ids": [
+            "rec2wJVkQR4VyKL5X",
+            "recGnMCrsLgtJ7kPy"
+        ],
+        "locations": [
+            "rec2wJVkQR4VyKL5X",
+            "recGnMCrsLgtJ7kPy"
+        ],
+        "postal_code": "98195",
+        "services": [
+            "rects6CzyxbtjAuql"
+        ],
+        "state": "WA",
+        "x-address_2": "B-323"
+    },
+    {
+        "address_1": "114 Anthes Ave.",
+        "city": "Langley",
+        "id": "recD9mqoEq7xKeBvz",
+        "location_ids": [
+            "recBfW8pRwPhlydOU"
+        ],
+        "locations": [
+            "recBfW8pRwPhlydOU"
+        ],
+        "postal_code": "98260",
+        "state": "WA"
+    },
+    {
+        "address_1": "1303 Commercial St. ",
+        "city": "Bellingham",
+        "id": "recDDn4PWmGgQlGjd",
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 6 "
+    },
+    {
+        "address_1": "PO Box 5571",
+        "city": "Bellingham",
+        "id": "recDNYZ9nu8ACdUPt",
+        "location_ids": [
+            "recdzKb5Jcdl1IQlm"
+        ],
+        "locations": [
+            "recdzKb5Jcdl1IQlm"
+        ],
+        "postal_code": "98227",
+        "state": "Washington",
+        "x-type": [
+            "Postal Address"
+        ]
+    },
+    {
+        "address_1": "735 Cherry St. ",
+        "city": "Sumas",
+        "id": "recDR8D1l1oRDIOsD",
+        "location_ids": [
+            "recOUntYJh544WJSt"
+        ],
+        "locations": [
+            "recOUntYJh544WJSt"
+        ],
+        "postal_code": "98295",
+        "state": "WA"
+    },
+    {
+        "address_1": "1950 Northern State Rd.",
+        "city": "Sedro Woolley",
+        "id": "recDrBDPqmDnLSaxy",
+        "location_ids": [
+            "recAdrQUjNwgvrgIu"
+        ],
+        "locations": [
+            "recAdrQUjNwgvrgIu"
+        ],
+        "postal_code": "98284",
+        "state": "WA"
+    },
+    {
+        "address_1": "315 Halleck St.",
+        "city": "Bellingham",
+        "id": "recE3sgnHF1NxRbOG",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1231 N. Garden St.",
+        "city": "Bellingham",
+        "id": "recEEGv3JfCM74JKR",
+        "location_ids": [
+            "recY6cpceKXDt4ltB"
+        ],
+        "locations": [
+            "recY6cpceKXDt4ltB"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recXaKLWiTXY9i9bR",
+            "receXwai69cHVXGyE",
+            "recu3qVZyhdNmT6tM",
+            "recwOl4K9IJENIgC3"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 200"
+    },
+    {
+        "address_1": "288 Martin St.",
+        "city": "Blaine",
+        "id": "recEoUgM9KDtJDUpc",
+        "location_ids": [
+            "recdjSdENU2iC7XWt"
+        ],
+        "locations": [
+            "recdjSdENU2iC7XWt"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "recqnEg5892ovOtEH",
+            "recO6J7G9X1kUxBIv",
+            "recvMwj5r4HykqW7R",
+            "recC0V0P3eFSNQkwt"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "800 East Chestnut Street",
+        "city": "Bellingham",
+        "id": "recEuzNr5n51tCVuf",
+        "location_ids": [
+            "recyam6V7YzNqDJ5L"
+        ],
+        "locations": [
+            "recyam6V7YzNqDJ5L"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec6fiI4VhPpjMD6k",
+            "recDAvvSaS1rHnU2h",
+            "recYtsoBxEohdN8EL",
+            "recVXtjHKyQMUlgH0",
+            "recHXbQCRcCgBasHD",
+            "rec2owJeJEjXpP3Qz",
+            "recM7Z8sZsJIoJhWa"
+        ],
+        "state": "Washington",
+        "x-address_2": "Unit 1C",
+        "x-type": [
+            "Physical Address"
+        ]
+    },
+    {
+        "address_1": "2800 Douglas Ave.",
+        "city": "Bellingham",
+        "id": "recEvLsa7px8t1e96",
+        "location_ids": [
+            "recCDQ0sfuU5NtgOz"
+        ],
+        "locations": [
+            "recCDQ0sfuU5NtgOz"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1400 Woburn St.",
+        "city": "Bellingham",
+        "id": "recF1ajYkDicSRfJF",
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "32nd St. between Taylor Ave. and Donovan Ave.",
+        "city": "Bellingham",
+        "id": "recF1nY9kNQiuaqiA",
+        "location_ids": [
+            "recbOyj2eBcsmCcZb"
+        ],
+        "locations": [
+            "recbOyj2eBcsmCcZb"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recYUb66CdDAqC7BQ"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "975 H St.",
+        "city": "Blaine",
+        "id": "recFEMLUVTdT6Yh7y",
+        "location_ids": [
+            "recHgM1UEBpHWHUTA"
+        ],
+        "locations": [
+            "recHgM1UEBpHWHUTA"
+        ],
+        "postal_code": "98230",
+        "state": "WA"
+    },
+    {
+        "address_1": "210 Lottie St.",
+        "city": "Bellingham ",
+        "id": "recFL1HFuQJc5bT3J",
+        "location_ids": [
+            "recYvK57TunzSySns",
+            "recWARjeXaIxCxpRw"
+        ],
+        "locations": [
+            "recYvK57TunzSySns",
+            "recWARjeXaIxCxpRw"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reckTRTs4L0w73Z3b",
+            "recdTJW8S52QjZ5qY",
+            "recklfIlqtCb6JYHj"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2323 View Ridge Dr. ",
+        "city": "Bellingham",
+        "id": "recFYgjbY0oNt1lsv",
+        "location_ids": [
+            "rec9Ua7mp18VVIPpm"
+        ],
+        "locations": [
+            "rec9Ua7mp18VVIPpm"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recuxOMES05GOOiA0"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "PO Box 5747 ",
+        "city": "Bellingham",
+        "id": "recFln56nHo2lw44c",
+        "location_ids": [
+            "rec8ofhpD09ajSWLD"
+        ],
+        "locations": [
+            "rec8ofhpD09ajSWLD"
+        ],
+        "postal_code": "98227",
+        "state": "WA"
+    },
+    {
+        "address_1": "108 Prospect Street",
+        "city": "Bellingham",
+        "id": "recFuFCgTKAypxP2N",
+        "location_ids": [
+            "recBpLtr4y4QbxoJN"
+        ],
+        "locations": [
+            "recBpLtr4y4QbxoJN"
+        ],
+        "postal_code": "98225",
+        "state": "Washington"
+    },
+    {
+        "address_1": "4152 Meridian Street",
+        "city": "Bellingham",
+        "id": "recG5ROIcXcHTsFev",
+        "location_ids": [
+            "rec88IOknDouMSwsf"
+        ],
+        "locations": [
+            "rec88IOknDouMSwsf"
+        ],
+        "postal_code": "98226",
+        "state": "Washington",
+        "x-address_2": "Unit 105, Private Mailbox 159",
+        "x-type": [
+            "Postal Address",
+            "postal_address"
+        ]
+    },
+    {
+        "address_1": "1200 Dupont St.",
+        "city": "Bellingham",
+        "id": "recG8pBrOVwgnOXGg",
+        "location_ids": [
+            "reck8CkRxfKwz9mvm"
+        ],
+        "locations": [
+            "reck8CkRxfKwz9mvm"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 1A"
+    },
+    {
+        "address_1": "843 South Burlington Boulevard ",
+        "city": "Burlington",
+        "id": "recGI1tJoWzRmYrpi",
+        "location_ids": [
+            "recAzQiqNu3sf2NNs"
+        ],
+        "locations": [
+            "recAzQiqNu3sf2NNs"
+        ],
+        "postal_code": "98223",
+        "state": "Washington"
+    },
+    {
+        "address_1": "1200 Old Fairhaven Pkwy.",
+        "city": "Bellingham",
+        "id": "recGkuuseN4STqJHy",
+        "location_ids": [
+            "reco2ulosFBroSDND"
+        ],
+        "locations": [
+            "reco2ulosFBroSDND"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec3lMevIXq3ysGRV"
+        ],
+        "state": "WA",
+        "x-address_2": "Ste. 203"
+    },
+    {
+        "address_1": "2412 Yew Street Rd.",
+        "city": "Bellingham",
+        "id": "recGnQG6fJWYOdex9",
+        "location_ids": [
+            "recLgz2yPSUMV9HxF"
+        ],
+        "locations": [
+            "recLgz2yPSUMV9HxF"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "recSbPuZyerKVMKJu"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "6060 Portal Way ",
+        "city": "Ferndale",
+        "id": "recHEEboezkTEnHnj",
+        "location_ids": [
+            "recRWkfQjHuYTJi32"
+        ],
+        "locations": [
+            "recRWkfQjHuYTJi32"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "recdlEWpVbIeLo7y7",
+            "recFK77FyjQPdMNNr",
+            "recfYBTAsYxzYkyVs",
+            "recOzgLMiNHKmiBAK",
+            "rec1DhaHj8sJ4SctU",
+            "recRYlvYrFWYcOHwd"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4979 Mt. Baker Hwy.",
+        "city": "Deming",
+        "id": "recHN6sI1Iv62tyiw",
+        "location_ids": [
+            "recAP8OKp7vqahAyb"
+        ],
+        "locations": [
+            "recAP8OKp7vqahAyb"
+        ],
+        "postal_code": "98244",
+        "services": [
+            "recUskRyW5PyyELHt"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite B"
+    },
+    {
+        "address_1": "6884 Hannegan Rd.",
+        "city": "Everson",
+        "id": "recHT2iq9PXooonAg",
+        "location_ids": [
+            "recArlXmxEShHy2Ze"
+        ],
+        "locations": [
+            "recArlXmxEShHy2Ze"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "receddVOtLoOt9BdM",
+            "recMTujnsDXXHOsKK"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2500 E Street",
+        "city": "Bellingham",
+        "id": "recHiRsWv1aMjzxBp",
+        "location_ids": [
+            "recV2o7nWREWHZB2a"
+        ],
+        "locations": [
+            "recV2o7nWREWHZB2a"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recWwEmTeQG6WDk83"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1400 N State St.",
+        "city": "Bellingham",
+        "id": "recHyG3C3DdjvoQA7",
+        "location_ids": [
+            "recpy9lamzYKVNGYC"
+        ],
+        "locations": [
+            "recpy9lamzYKVNGYC"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recEll2UppRohvL1N",
+            "rec8R0aRVn1FGkC1Y",
+            "recdt5eSE7ydEZIS2",
+            "recMGqh5Cid6lmFgw",
+            "recJPMQvpmC3eecGP"
+        ],
+        "state": "WA",
+        "x-address_2": "Unit 101"
+    },
+    {
+        "address_1": "1155 N. State St.",
+        "city": "Bellingham",
+        "id": "recIErLh7SDW4kFHt",
+        "location_ids": [
+            "recy2ctfIuf6jEPGJ"
+        ],
+        "locations": [
+            "recy2ctfIuf6jEPGJ"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "receVK0vHoI05MRoi"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 404"
+    },
+    {
+        "address_1": "6th St. and Cascade Ave.",
+        "city": "Langley",
+        "id": "recIWs0bhxobbJcSU",
+        "location_ids": [
+            "rechcboX3mrNTX8yD"
+        ],
+        "locations": [
+            "rechcboX3mrNTX8yD"
+        ],
+        "postal_code": "98260",
+        "state": "WA"
+    },
+    {
+        "address_1": "280 SE Pioneer Way ",
+        "city": "Oak Harbor",
+        "id": "recIbHJcCByDmtdjh",
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "1720 Harris Ave.",
+        "city": "Bellingham",
+        "id": "recIdpdoVll97NTn6",
+        "location_ids": [
+            "recGDexV5kDMYdxKs"
+        ],
+        "locations": [
+            "recGDexV5kDMYdxKs"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recf2w4tQNpkNn44E"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "600 Cherokee St. ",
+        "city": "Oak Harbor",
+        "id": "recJ0ixlNMjoPKadA",
+        "location_ids": [
+            "recMHoooqk6eIpKXi"
+        ],
+        "locations": [
+            "recMHoooqk6eIpKXi"
+        ],
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "2219 Rimland Dr.",
+        "city": "Bellingham",
+        "id": "recJ5DnzAjK4eRlnw",
+        "location_ids": [
+            "reczoOplcl5sBzJI2"
+        ],
+        "locations": [
+            "reczoOplcl5sBzJI2"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recLgJkmBFC5ljfuH"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 411"
+    },
+    {
+        "address_1": "1630 H St.",
+        "city": "Bellingham",
+        "id": "recJ8ue0BOeKjLsBx",
+        "location_ids": [
+            "rece83wxsL4EH1WZ8"
+        ],
+        "locations": [
+            "rece83wxsL4EH1WZ8"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recHX2KPXce4pZdT0"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4151 Meridian St.",
+        "city": "Bellingham",
+        "id": "recJ9sQtSTh2ffORQ",
+        "location_ids": [
+            "recMG2qSeTEoyYDG4"
+        ],
+        "locations": [
+            "recMG2qSeTEoyYDG4"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recvj9amzCpJnYTcK",
+            "recpa1PFVRW6AHMQB"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 12"
+    },
+    {
+        "address_1": "15700 Dayton Ave. N",
+        "city": "Shoreline",
+        "id": "recJK1uHmZOIpO4Bd",
+        "location_ids": [
+            "recf736psbsAzjgTJ"
+        ],
+        "locations": [
+            "recf736psbsAzjgTJ"
+        ],
+        "postal_code": "98133",
+        "state": "WA"
+    },
+    {
+        "address_1": "1814 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recJSx0UGSn5pKTuD",
+        "location_ids": [
+            "reckJI25xtvkdxUDU"
+        ],
+        "locations": [
+            "reckJI25xtvkdxUDU"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "2309 Meridian St.",
+        "city": "Bellingham",
+        "id": "recJss4FI0BT7yZgn",
+        "location_ids": [
+            "recq7Jg6wRT53LNLI"
+        ],
+        "locations": [
+            "recq7Jg6wRT53LNLI"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recqSawi4wQhfVVGS",
+            "recuRvEoQFxnEDFP1"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2812 Grimm Rd.",
+        "city": "Langley",
+        "id": "recKkRqwXWWhg5NzI",
+        "location_ids": [
+            "recr9nEsZBooTp9vA"
+        ],
+        "locations": [
+            "recr9nEsZBooTp9vA"
+        ],
+        "postal_code": "98260",
+        "state": "WA"
+    },
+    {
+        "address_1": "461 2nd St.",
+        "city": "Sumas",
+        "id": "recKs63TNqLCs3OYp",
+        "location_ids": [
+            "reca4YjJVysgk7146"
+        ],
+        "locations": [
+            "reca4YjJVysgk7146"
+        ],
+        "postal_code": "98295",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2211 Rimland Dr.",
+        "city": "Bellingham",
+        "id": "recL5olXIvVMcpOvx",
+        "location_ids": [
+            "recRJYh9ZLno9mSR2"
+        ],
+        "locations": [
+            "recRJYh9ZLno9mSR2"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recQQBa1VlFKnrht9"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 325"
+    },
+    {
+        "address_1": "2750 McLeod Rd.",
+        "city": "Bellingham",
+        "id": "recLEaK7qhMzMS2B8",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "2303 Moore St.",
+        "city": "Bellingham",
+        "id": "recLOLxlxjKLXoGhm",
+        "location_ids": [
+            "recPX0F2NLevg4oll"
+        ],
+        "locations": [
+            "recPX0F2NLevg4oll"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "rectU8K7cogfcZLTH"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "316 E McLeod Rd.",
+        "city": "Bellingham",
+        "id": "recLRPTyJjo3pkdvW",
+        "location_ids": [
+            "reccB0FbYQGWXmVUP"
+        ],
+        "locations": [
+            "reccB0FbYQGWXmVUP"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "reck9HAy27M5c7XTL",
+            "recEsMRQ3O8eIfZew",
+            "rec1QRVcDJZtiCirG"
+        ],
+        "state": "WA",
+        "x-address_2": "Ste. 102B"
+    },
+    {
+        "address_1": "1511 N State St.",
+        "city": "Bellingham",
+        "id": "recLRSm29vsb7OIQG",
+        "location_ids": [
+            "recSiB0E0o3khkVky"
+        ],
+        "locations": [
+            "recSiB0E0o3khkVky"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recGF9mPH4Toda1iq"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "5061 Deming Rd.",
+        "city": "Deming",
+        "id": "recLSamXwA8jq9U9l",
+        "location_ids": [
+            "recxPFp7YcjP0aEK2"
+        ],
+        "locations": [
+            "recxPFp7YcjP0aEK2"
+        ],
+        "postal_code": "98224",
+        "services": [
+            "recRAGGvXneGryk0Y"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "3424 Meridian St. ",
+        "city": "Bellingham",
+        "id": "recLYaPU9CDuSPV68",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "6046 Portal Way",
+        "city": "Ferndale",
+        "id": "recMMSF0XOXgiMtJY",
+        "location_ids": [
+            "recjy18NS1aMkHeJg",
+            "recBBD79Ex49Bu76r"
+        ],
+        "locations": [
+            "recjy18NS1aMkHeJg",
+            "recBBD79Ex49Bu76r"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "receeonwyp2EAOgd0",
+            "recvR94HNska7ufRs",
+            "recvMwj5r4HykqW7R",
+            "recC0V0P3eFSNQkwt",
+            "recqnEg5892ovOtEH",
+            "recO6J7G9X1kUxBIv"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1600 Iowa St.",
+        "city": "Bellingham ",
+        "id": "recMSD2Tn4ZE4kk32",
+        "location_ids": [
+            "recqy5tnBohKevsUp"
+        ],
+        "locations": [
+            "recqy5tnBohKevsUp"
+        ],
+        "postal_code": "98229",
+        "state": "WA"
+    },
+    {
+        "address_1": "2804 Connelly Ave.",
+        "city": "Bellingham",
+        "id": "recN0xN88pudVTPL3",
+        "location_ids": [
+            "reckOEAzN0BueIwqt"
+        ],
+        "locations": [
+            "reckOEAzN0BueIwqt"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recK605YQFmA04r0l"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "31775 State Route 20",
+        "city": "Oak Harbor",
+        "id": "recN2FDPpXFWPNz8P",
+        "location_ids": [
+            "recBfWwoqEVj3cfOP"
+        ],
+        "locations": [
+            "recBfWwoqEVj3cfOP"
+        ],
+        "postal_code": "98277",
+        "state": "WA",
+        "x-address_2": "Suite A-3"
+    },
+    {
+        "address_1": "315 5th Ave.",
+        "city": "Seattle",
+        "id": "recNEV5byTFLMTeTD",
+        "location_ids": [
+            "rec3jVzurzSnQ3sVB"
+        ],
+        "locations": [
+            "rec3jVzurzSnQ3sVB"
+        ],
+        "postal_code": "98104",
+        "state": "WA",
+        "x-address_2": "Suite 850"
+    },
+    {
+        "address_1": "1742 Iowa St.",
+        "city": "Bellingham",
+        "id": "recNNAsG3wFe4ISOO",
+        "location_ids": [
+            "recrpcv3FPZsK3pcf"
+        ],
+        "locations": [
+            "recrpcv3FPZsK3pcf"
+        ],
+        "postal_code": "98229",
+        "state": "WA"
+    },
+    {
+        "address_1": "2901 Squalicum Pkwy.",
+        "city": "Bellingham",
+        "id": "recNdjijCSUNUDV2U",
+        "location_ids": [
+            "recz2mGmK2mnDDs2U"
+        ],
+        "locations": [
+            "recz2mGmK2mnDDs2U"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recVh9ZAAAZe3rI96",
+            "recjd7un5Nvjvei4w",
+            "recOQMB244OvnxXmI",
+            "rec94ux0aKRqeC4Zw",
+            "rec9ZYvEuuAyG2uu5"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2828 Kwina Rd.",
+        "city": "Bellingham ",
+        "id": "recOOnuykWCuAI4T3",
+        "location_ids": [
+            "reclwdL0km7dInRvL",
+            "recTQgzgdzAsYekZJ"
+        ],
+        "locations": [
+            "reclwdL0km7dInRvL",
+            "recTQgzgdzAsYekZJ"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recooWiWVjIhhoT0b",
+            "recUald1zLPrqCW0k"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "5103 Mosquito Lake Rd.",
+        "city": "Deming",
+        "id": "recOlm3jL93iM2aYh",
+        "location_ids": [
+            "recnLmKI0I28eISIa"
+        ],
+        "locations": [
+            "recnLmKI0I28eISIa"
+        ],
+        "postal_code": "98244",
+        "services": [
+            "recERlDZaed35oVJC"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4455 Cordata Pkwy.",
+        "city": "Bellingham",
+        "id": "recP2coRzLdPJ3zCP",
+        "location_ids": [
+            "rec7NGbVYLxm9Ks6T",
+            "recTg5b1tcsi5WfiR"
+        ],
+        "locations": [
+            "rec7NGbVYLxm9Ks6T",
+            "recTg5b1tcsi5WfiR"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recYEgvoqx2opSatP",
+            "recMTujnsDXXHOsKK",
+            "recvR94HNska7ufRs",
+            "recsclulVIXBBuZE4",
+            "recDqSPwruqWPvAZk",
+            "recZUv6MSYHxMRkdq"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2219 Rimland Dr.",
+        "city": "Bellingham ",
+        "id": "recP5ljwHSCJoogkJ",
+        "postal_code": "98226",
+        "state": "WA",
+        "x-address_2": "Suite 208"
+    },
+    {
+        "address_1": "2505 Cedarwood Ave.",
+        "city": "Bellingham",
+        "id": "recPLdv5HGRDgsiFc",
+        "location_ids": [
+            "recGTaPCE46uS78y2"
+        ],
+        "locations": [
+            "recGTaPCE46uS78y2"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recuXkrixHpZErFwf",
+            "recZuSBVqyb2s9g24",
+            "reccDxIibYmMKdFV0",
+            "rec2WNKxT3Q3Iy2kq",
+            "recMpWPmIT11hThPn",
+            "recPXop1WMzmTTHUk",
+            "rec6ro4MWupA4xgqA",
+            "recfYqTo7alDLNoXS"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 5"
+    },
+    {
+        "address_1": "1026 N. Forest St.",
+        "city": "Bellingham",
+        "id": "recPOerygR5qZUZ3b",
+        "location_ids": [
+            "rec2du6Qn0LIeStxh"
+        ],
+        "locations": [
+            "rec2du6Qn0LIeStxh"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "820 Boblett St.",
+        "city": "Blaine",
+        "id": "recPbpOlMDZtvt3BO",
+        "location_ids": [
+            "recxIOCX6isu0dOO8"
+        ],
+        "locations": [
+            "recxIOCX6isu0dOO8"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "recSonKelQbiKDRef"
+        ],
+        "state": "Washington"
+    },
+    {
+        "address_1": "5060 Sand Rd.",
+        "city": "Bellingham",
+        "id": "recPjpi4QmYsBM3dt",
+        "location_ids": [
+            "recCLzsCpFKRWCgTi"
+        ],
+        "locations": [
+            "recCLzsCpFKRWCgTi"
+        ],
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "4226 Pickett Rd.",
+        "city": "Bellingham",
+        "id": "recPlq49rgfDhivdr",
+        "location_ids": [
+            "recVHkXrHE7SeYbJE"
+        ],
+        "locations": [
+            "recVHkXrHE7SeYbJE"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recXuZYXZNJpZBcGO"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1201 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recPwyrbHyxNh7O5s",
+        "location_ids": [
+            "recRCQgkivtyv9B9Y"
+        ],
+        "locations": [
+            "recRCQgkivtyv9B9Y"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recTy3L6aObx1NRcH",
+            "recIThNIankICC2Oa",
+            "recuMsqTBGi7wU8Hz",
+            "recAZ2BkQktrRhxNZ",
+            "recjZ7UYj1JuLOJyr",
+            "recreZE5ZVZKNhFYl",
+            "recca6n3nMKZAvFMt"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "PO Box 955",
+        "city": "Bellingham",
+        "id": "recRSvrH8KerrpT1s",
+        "location_ids": [
+            "reccVzlBrk2nCJlVW"
+        ],
+        "locations": [
+            "reccVzlBrk2nCJlVW"
+        ],
+        "postal_code": "98227",
+        "state": "WA"
+    },
+    {
+        "address_1": "913 E Whidbey Ave.",
+        "city": "Oak Harbor",
+        "id": "recRX21SVgXGNkadn",
+        "location_ids": [
+            "recXKk3GRUAm7WtDC"
+        ],
+        "locations": [
+            "recXKk3GRUAm7WtDC"
+        ],
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "4420 Aldrich Rd.",
+        "city": "Bellingham",
+        "id": "recRlkhEU9U8LPtMQ",
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "208 Unity St.",
+        "city": "Bellingham",
+        "id": "recRrpdLYH75asnWl",
+        "location_ids": [
+            "recqzWIa7fsrQzang"
+        ],
+        "locations": [
+            "recqzWIa7fsrQzang"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "3111 Newmarket St.",
+        "city": "Bellingham",
+        "id": "recRt4rdSmDUi8bDg",
+        "location_ids": [
+            "recw6TuR6G2i1vcvl"
+        ],
+        "locations": [
+            "recw6TuR6G2i1vcvl"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recdJg0Em5PZ7fa1s",
+            "rec1N5u4XGsSR6815",
+            "recUnMCECLm4OR93U",
+            "recDBS8KvNKoFll0K"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "515 E. Chestnut St.",
+        "city": "Bellingham",
+        "id": "recRv4pE9NMhVHNxZ",
+        "location_ids": [
+            "recZfrG94M4imnl1R"
+        ],
+        "locations": [
+            "recZfrG94M4imnl1R"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "3028 Lindbergh Ave.",
+        "city": "Bellingham",
+        "id": "recS2xkWy8iBhTCZX",
+        "location_ids": [
+            "recFWcaXWYF75Lfrb"
+        ],
+        "locations": [
+            "recFWcaXWYF75Lfrb"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reckV7PmxfpFoXLRi",
+            "recu2UAFuUJC0ExRk",
+            "recOliHkFed1t9S26"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1840 Iron St. ",
+        "city": "Bellingham",
+        "id": "recSDCjpCxw29nXqM",
+        "location_ids": [
+            "recWU0pQ9K0gHMvZa"
+        ],
+        "locations": [
+            "recWU0pQ9K0gHMvZa"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recCP6jNDnhCR2NZ3"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite A"
+    },
+    {
+        "address_1": "5205 Northwest Dr.",
+        "city": "Bellingham",
+        "id": "recSJws8DwntHnN9s",
+        "location_ids": [
+            "recYXKkfQneM1mhpK"
+        ],
+        "locations": [
+            "recYXKkfQneM1mhpK"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rec9bxGoRwOCxcB4K",
+            "reczOyovH31gjAg1a",
+            "recWSMRPnCKUx1WEU"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "625 N. State St.",
+        "city": "Bellingham",
+        "id": "recSPAvK11jD1XQhF",
+        "location_ids": [
+            "recQtc9y3EfoXVc4s"
+        ],
+        "locations": [
+            "recQtc9y3EfoXVc4s"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recfNrBQ3CWYSz0Dj"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "PO Box 2444",
+        "city": "Bellingham",
+        "id": "recSacY630SSTMMs4",
+        "location_ids": [
+            "recnCAiPueeHlJrSq"
+        ],
+        "locations": [
+            "recnCAiPueeHlJrSq"
+        ],
+        "postal_code": "98227",
+        "state": "WA"
+    },
+    {
+        "address_1": "110 E. Chestnut St.",
+        "city": "Bellingham",
+        "id": "recSqoQJdurZkezJG",
+        "location_ids": [
+            "recLd2MvFC3CJHG6L"
+        ],
+        "locations": [
+            "recLd2MvFC3CJHG6L"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "2830 Kwina Rd. ",
+        "city": "Bellingham",
+        "id": "recTGFnlu2uid2LjU",
+        "location_ids": [
+            "recHgjN8Wp0Fb63jv",
+            "recVMQXpfbbgz0Ald"
+        ],
+        "locations": [
+            "recHgjN8Wp0Fb63jv",
+            "recVMQXpfbbgz0Ald"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recHnviFpO63x6ur2",
+            "reccgoW2iEZ4hM9Ur"
+        ],
+        "state": "WA",
+        "x-address_2": "Building Z-5"
+    },
+    {
+        "address_1": "PO Box 31595",
+        "city": "Bellingham",
+        "id": "recTNL9jwKDzSy5G8",
+        "location_ids": [
+            "rec0AijwXSpAI8QdR"
+        ],
+        "locations": [
+            "rec0AijwXSpAI8QdR"
+        ],
+        "postal_code": "98228",
+        "state": "Washington",
+        "x-type": [
+            "Postal Address"
+        ]
+    },
+    {
+        "address_1": "2624 Birchwood Ave.",
+        "city": "Bellingham",
+        "id": "recTWJoCILI8paQe6",
+        "location_ids": [
+            "recQVw9kJGeT4KwGi"
+        ],
+        "locations": [
+            "recQVw9kJGeT4KwGi"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1530 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recTf09gLy8cNc7kX",
+        "location_ids": [
+            "recKQRbaGvdIucDpI"
+        ],
+        "locations": [
+            "recKQRbaGvdIucDpI"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reci9hxekeJDraNRo"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1504 Larrabee Ave.",
+        "city": "Bellingham",
+        "id": "recU2aCM9vaJbXdBX",
+        "location_ids": [
+            "reclCNPpkBjDyo8AL"
+        ],
+        "locations": [
+            "reclCNPpkBjDyo8AL"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recu2qziAeZQPFCVW"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "765 H St.",
+        "city": "Blaine",
+        "id": "recU7usHewHFO6lk9",
+        "location_ids": [
+            "recgDuekejPE04OCS"
+        ],
+        "locations": [
+            "recgDuekejPE04OCS"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "recf8RBbNAM4zbePg"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "5044 Mt. Baker Hwy.",
+        "city": "Deming",
+        "id": "recUF8HJKZ40SMfpy",
+        "location_ids": [
+            "rec14rhsQwS3dEFE2"
+        ],
+        "locations": [
+            "rec14rhsQwS3dEFE2"
+        ],
+        "postal_code": "98244",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recM7dVrhLVvWQhEk",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1500 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recUo5lLz7wIxmVnr",
+        "location_ids": [
+            "recudjZxaOtfdyRQ9"
+        ],
+        "locations": [
+            "recudjZxaOtfdyRQ9"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 203"
+    },
+    {
+        "address_1": "8800 Bender Road",
+        "city": "Lynden",
+        "id": "recV19XMgv2prxKz3",
+        "location_ids": [
+            "rec3qg6wjVuUDThtE"
+        ],
+        "locations": [
+            "rec3qg6wjVuUDThtE"
+        ],
+        "postal_code": "98264",
+        "services": [
+            "reccsPXWUZymm5nvM"
+        ],
+        "state": "Washington"
+    },
+    {
+        "address_1": "7506 Kendall Rd.",
+        "city": "Maple Falls",
+        "id": "recV6pTv8bvZ4PC5v",
+        "location_ids": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "locations": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "postal_code": "98266",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recM7dVrhLVvWQhEk",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "5604 Mission Rd.",
+        "city": "Bellingham",
+        "id": "recVCKMICmlMXWIPC",
+        "location_ids": [
+            "recpohI2UwO5bJ2oQ"
+        ],
+        "locations": [
+            "recpohI2UwO5bJ2oQ"
+        ],
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "PO Box 2279",
+        "city": "Oak Harbor",
+        "id": "recVcQ7TP8Nsdinvb",
+        "location_ids": [
+            "recqPKf7tLwpI2O82"
+        ],
+        "locations": [
+            "recqPKf7tLwpI2O82"
+        ],
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "1015 Girard St.",
+        "city": "Bellingham",
+        "id": "recVhDn8Unzg5O3t9",
+        "location_ids": [
+            "recH5ceU4TuYRKfAY"
+        ],
+        "locations": [
+            "recH5ceU4TuYRKfAY"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recYpeOqMkYaKw1Cj",
+            "recRN1V5TreBr1pQE",
+            "recQg3ggQKSIc19ZM",
+            "recSD6cmM4ileWV8j",
+            "reccaRSsso0aZKHH6",
+            "recVRBccDKpI5xXjb",
+            "recrgTieAgyGzEINv",
+            "recXWB84dckzj8Bdg"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2220 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recWBDziRk0K0skuf",
+        "location_ids": [
+            "rec7w0GLGX3pjRbtC"
+        ],
+        "locations": [
+            "rec7w0GLGX3pjRbtC"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1530 Birchwood Ave.",
+        "city": "Bellingham",
+        "id": "recWYmtLeNJ4IxM8s",
+        "location_ids": [
+            "recA8yV0NCRXOfSWX"
+        ],
+        "locations": [
+            "recA8yV0NCRXOfSWX"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec6Kj37hcZNFqhrj"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite B"
+    },
+    {
+        "address_1": "2144 S. Nugent Rd.",
+        "city": "Lummi Island",
+        "id": "recWnaCA257uHjM5m",
+        "location_ids": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "locations": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "postal_code": "98262",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4465 Cordata Pkwy.",
+        "city": "Bellingham",
+        "id": "recWqdBoFImLQV9vL",
+        "location_ids": [
+            "recyk3isBsBUh7660"
+        ],
+        "locations": [
+            "recyk3isBsBUh7660"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rec94ux0aKRqeC4Zw"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 102"
+    },
+    {
+        "address_1": "1208 Bay St.",
+        "city": "Bellingham",
+        "id": "recWuhSkr1uvr0ALl",
+        "location_ids": [
+            "rec2slIkEIqdCOtxz"
+        ],
+        "locations": [
+            "rec2slIkEIqdCOtxz"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 4304"
+    },
+    {
+        "address_1": "9612 271 St. NW",
+        "city": "Stanwood",
+        "id": "recX7XBFpzFELIZqI",
+        "location_ids": [
+            "recrcL1QuZNcsYR5A"
+        ],
+        "locations": [
+            "recrcL1QuZNcsYR5A"
+        ],
+        "postal_code": "98292",
+        "state": "WA"
+    },
+    {
+        "address_1": "8217 Chehalis Road",
+        "city": "Blaine ",
+        "id": "recX9W7NcXZC4YWuu",
+        "location_ids": [
+            "recC7OR5VepOstZn5"
+        ],
+        "locations": [
+            "recC7OR5VepOstZn5"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "rec5UotrHSNZvqJIC"
+        ],
+        "state": "Washington"
+    },
+    {
+        "address_1": "PO Box 42634",
+        "city": "Olympia",
+        "id": "recXCO1tx9Hk8l8RO",
+        "location_ids": [
+            "recmNUeNiV5vEhD4l"
+        ],
+        "locations": [
+            "recmNUeNiV5vEhD4l"
+        ],
+        "postal_code": "98504",
+        "state": "WA"
+    },
+    {
+        "address_1": "506 Grover St.",
+        "city": "Lynden",
+        "id": "recXIvEP62S7iehmx",
+        "location_ids": [
+            "recXAmttvx5C7E6be"
+        ],
+        "locations": [
+            "recXAmttvx5C7E6be"
+        ],
+        "postal_code": "98264",
+        "services": [
+            "receVHGS8vwDhEtuB",
+            "recXD50WVmBOaNUM9",
+            "recP2hL7T0TCMAwho",
+            "recjGdZbS5cdCDB1b",
+            "rect7hgXqQyPfLxsf",
+            "recdThWAdsiyPtBzS",
+            "recf490ZdWxSK6wic",
+            "recpgYloufUzlacJS"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 112"
+    },
+    {
+        "address_1": "10th St. and Wilson Ave.",
+        "city": "Bellingham",
+        "id": "recXKkHlzoGUQDJKA",
+        "location_ids": [
+            "recnAQ3My57ZfJqq1"
+        ],
+        "locations": [
+            "recnAQ3My57ZfJqq1"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recYUb66CdDAqC7BQ"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "910 W. Holly St.",
+        "city": "Bellingham",
+        "id": "recXLozyvILKaW1Hy",
+        "location_ids": [
+            "rec5Tw7oi39LNplOW"
+        ],
+        "locations": [
+            "rec5Tw7oi39LNplOW"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recjRkAxxc8edURQi",
+            "recy5B9rkbMqzuCyq"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1764 Iowa St.",
+        "city": "Bellingham",
+        "id": "recXzMfznR2KcJvxJ",
+        "location_ids": [
+            "reclGDpXzJxozNp7t"
+        ],
+        "locations": [
+            "reclGDpXzJxozNp7t"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "receeonwyp2EAOgd0",
+            "recvR94HNska7ufRs"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1354 Pacific Pl.",
+        "city": "Ferndale",
+        "id": "recY36XW1KxqiY352",
+        "location_ids": [
+            "recmveeIDaafJafU9"
+        ],
+        "locations": [
+            "recmveeIDaafJafU9"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "recY8KpJeebd3F4DU",
+            "rec0VfmmKVJWEfOuu",
+            "recXRVVmtMPeeoAuT"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 101"
+    },
+    {
+        "address_1": "4350 Cordata Pkwy.",
+        "city": "Bellingham",
+        "id": "recYDnr9zCDEqGN4f",
+        "location_ids": [
+            "recqlNP4ANIpGslcJ"
+        ],
+        "locations": [
+            "recqlNP4ANIpGslcJ"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recmKzXfGw3G0UM0r"
+        ],
+        "state": "WA",
+        "x-address_2": "Unit 201"
+    },
+    {
+        "address_1": "133 East Holly St.",
+        "city": "Bellingham",
+        "id": "recYXWuGJE1XPBwoJ",
+        "location_ids": [
+            "recaZ2z5Sj43sPb2K"
+        ],
+        "locations": [
+            "recaZ2z5Sj43sPb2K"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "3350 Airport Dr.",
+        "city": "Bellingham",
+        "id": "recZCuWllSQv5MTn2",
+        "location_ids": [
+            "rechgMR78bp1LFl5Q"
+        ],
+        "locations": [
+            "rechgMR78bp1LFl5Q"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recyVgqwP4iOp4Jqf",
+            "reciGtELnMefdGoYK"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2600 Squalicum Pkwy.",
+        "city": "Bellingham ",
+        "id": "recZEvXNkbJa6rgsg",
+        "location_ids": [
+            "recLv54tTjbkRzT6V"
+        ],
+        "locations": [
+            "recLv54tTjbkRzT6V"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recflvVIR7Y5kOYGm"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "500 C St.",
+        "city": "Blaine",
+        "id": "recZOiWYQWBzxTTU1",
+        "location_ids": [
+            "rechT5QSFezCeL6eD"
+        ],
+        "locations": [
+            "rechT5QSFezCeL6eD"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "recAKC0Hq8Ihi1vBx"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1846 Iron Street",
+        "city": "Bellingham",
+        "id": "recZqwM4LC4X921q8",
+        "location_ids": [
+            "rec3VKuTjG0lqfXLi"
+        ],
+        "locations": [
+            "rec3VKuTjG0lqfXLi"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recglzzka7A4nRq7D"
+        ],
+        "state": "Washington",
+        "x-type": [
+            "Physical Address"
+        ]
+    },
+    {
+        "address_1": "1020 North State Street",
+        "city": "Bellingham",
+        "id": "recZz56RDpU1nmrO2",
+        "location_ids": [
+            "recuPstyQkLSIBI23"
+        ],
+        "locations": [
+            "recuPstyQkLSIBI23"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "104 Kirsch Dr.",
+        "city": "Everson",
+        "id": "reca2ZNeNrCNZft6h",
+        "location_ids": [
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "locations": [
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1592 Main St. ",
+        "city": "Freeland",
+        "id": "recaF2MHq6fBdiFk3",
+        "location_ids": [
+            "recnV0PokhM9osKvY"
+        ],
+        "locations": [
+            "recnV0PokhM9osKvY"
+        ],
+        "postal_code": "98249",
+        "state": "WA"
+    },
+    {
+        "address_1": "205 S. BC Ave.",
+        "city": "Lynden",
+        "id": "recaMAVjVMnwdkcCF",
+        "location_ids": [
+            "recseVcy5VQRUgoKT"
+        ],
+        "locations": [
+            "recseVcy5VQRUgoKT"
+        ],
+        "postal_code": "98264",
+        "services": [
+            "reciPcJkGqZeDrTMA",
+            "recimCliWF9WyjQft"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 117"
+    },
+    {
+        "address_1": "2530 Meridian St.",
+        "city": "Bellingham",
+        "id": "recaSEkIRsDy8uBEn",
+        "location_ids": [
+            "rec2aj33rysnpPqr7"
+        ],
+        "locations": [
+            "rec2aj33rysnpPqr7"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reclFQASYIva0KKZP"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "114 W. Magnolia St.",
+        "city": "Bellingham",
+        "id": "recaoTKpte6wNhiLG",
+        "location_ids": [
+            "recKWIgk2TIaPdP8W"
+        ],
+        "locations": [
+            "recKWIgk2TIaPdP8W"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recEdGsbJ9swfKIbt",
+            "recRoyaoRdGEecRpp",
+            "recg1yvMIJaxEFgnr"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 106"
+    },
+    {
+        "address_1": "Lakeway Dr. and Woburn St.",
+        "city": "Bellingham",
+        "id": "recap4drdAPrLgBl8",
+        "location_ids": [
+            "rec0Q7XFwPMSU7yGA"
+        ],
+        "locations": [
+            "rec0Q7XFwPMSU7yGA"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "recYUb66CdDAqC7BQ"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "114 W Magnolia St.",
+        "city": "Bellingham",
+        "id": "recatgPs0bE4G6HOw",
+        "location_ids": [
+            "recYSxw8Kg3azr1GD"
+        ],
+        "locations": [
+            "recYSxw8Kg3azr1GD"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recwRRxC4o0QBXbG1",
+            "recHGeAQvMVIjYD2I",
+            "rec431dF6KpPu6rYG"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 300"
+    },
+    {
+        "address_1": "4888 Deming Rd.",
+        "city": "Deming",
+        "id": "recb1dSjmfCCtXcTt",
+        "location_ids": [
+            "rec4QsJdM4nro1kS0"
+        ],
+        "locations": [
+            "rec4QsJdM4nro1kS0"
+        ],
+        "postal_code": "98244",
+        "services": [
+            "recrKD4mekSlKVVAv"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "710 Alabama St.",
+        "city": "Bellingham",
+        "id": "recbU7s43gHX6t3kr",
+        "location_ids": [
+            "recig26HarMMsGvuq"
+        ],
+        "locations": [
+            "recig26HarMMsGvuq"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recZSXJVvU9AXaKnu",
+            "recgZhxkGr5CAah2b",
+            "rectnMQuwRg1YaA3Z",
+            "recx7kVr85BGxISGX"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "700 Strandell St.",
+        "city": "Everson",
+        "id": "recblx4WHBt19m3lr",
+        "location_ids": [
+            "recrL6TORTlEkXW61"
+        ],
+        "locations": [
+            "recrL6TORTlEkXW61"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "recFfWmNZoP03MF6C",
+            "recrpvOzjCVm6D36H",
+            "recG4Zj3ZZl5mRKyM",
+            "recnTNukX4raqCzH1",
+            "recDdXxPSOfgjYZyk",
+            "recpAvLgMZBAweahG",
+            "recbbCdhYDrk4GE24",
+            "recmd3eLAWB2x7ig6"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "10 Barn View Ct.",
+        "city": "Bellingham",
+        "id": "reccAXhUasKoKuAFC",
+        "location_ids": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "locations": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recM7dVrhLVvWQhEk",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA",
+        "x-address_2": "Sudden Valley, Gate 2"
+    },
+    {
+        "address_1": "265 NE Kettle St. ",
+        "city": "Oak Harbor ",
+        "id": "recckWd4JMJhgrIPJ",
+        "location_ids": [
+            "recLFm9nzoF9z4FJH"
+        ],
+        "locations": [
+            "recLFm9nzoF9z4FJH"
+        ],
+        "postal_code": "98277",
+        "state": "WA",
+        "x-address_2": "Suite 102"
+    },
+    {
+        "address_1": "20168 State Route 20",
+        "city": "Coupeville",
+        "id": "recclfSHKkBL7rMwJ",
+        "location_ids": [
+            "recdm2vKqh6TQ3h5k"
+        ],
+        "locations": [
+            "recdm2vKqh6TQ3h5k"
+        ],
+        "postal_code": "98239",
+        "state": "WA"
+    },
+    {
+        "address_1": "1600 S 2nd St.",
+        "city": "Mt.Vernon ",
+        "id": "reccuduP2X9NmsNt9",
+        "location_ids": [
+            "recJlr6WrQhFLC2SU"
+        ],
+        "locations": [
+            "recJlr6WrQhFLC2SU"
+        ],
+        "postal_code": "98273",
+        "state": "WA"
+    },
+    {
+        "address_1": "660 SE Fidalgo Ave. ",
+        "city": "Oak Harbor",
+        "id": "recd15XdbG2ZTnews",
+        "location_ids": [
+            "recASF8dhsPQj1cAj"
+        ],
+        "locations": [
+            "recASF8dhsPQj1cAj"
+        ],
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "4101 Meridian St.",
+        "city": "Bellingham",
+        "id": "recd7bThTJBGKwJWj",
+        "location_ids": [
+            "recK5rr1wm09AGyuZ"
+        ],
+        "locations": [
+            "recK5rr1wm09AGyuZ"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rec9mvpTU3vIW2lnU",
+            "recI2cx3uof7MHZtQ",
+            "recLENrHka6CdVbx7",
+            "recFqpC5K77LtBZpI",
+            "recNBt5JcW5osXwZR",
+            "recYvXcPuhR7WtUG1",
+            "recQG6U6EKoJoUBSz",
+            "reckwl4gMpssqoNeY",
+            "recnJxzPpVoaGY4X7",
+            "recGHORP7g5FzUkkd",
+            "recRRshrE28jwsUvw"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1212 Billy Frank Jr St.",
+        "city": "Bellingham",
+        "id": "recdBBNTfA2kg9yPy",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "133 East Holly Street",
+        "city": "Bellingham",
+        "id": "recdBEzQD4IFOdApu",
+        "location_ids": [
+            "rec8IZJVfq9NHWNVn"
+        ],
+        "locations": [
+            "rec8IZJVfq9NHWNVn"
+        ],
+        "postal_code": "98225",
+        "state": "Washington"
+    },
+    {
+        "address_1": "214 North Commercial Street",
+        "city": "Bellingham",
+        "id": "recdGn3QeW24eiWjL",
+        "location_ids": [
+            "reclyA39ZhNSgHdnQ"
+        ],
+        "locations": [
+            "reclyA39ZhNSgHdnQ"
+        ],
+        "services": [
+            "recGianFqudMk59Nz",
+            "reckWwfJbtZUk6aM4"
+        ],
+        "state": "Washington "
+    },
+    {
+        "address_1": "1500 N State St.",
+        "city": "Bellingham",
+        "id": "recdLfH0cFe0Byd2j",
+        "location_ids": [
+            "recfLyLq0rN4zRvAT"
+        ],
+        "locations": [
+            "recfLyLq0rN4zRvAT"
+        ],
+        "postal_code": "98226",
+        "state": "WA",
+        "x-address_2": "Suite 100"
+    },
+    {
+        "address_1": "607 E. Holly St.",
+        "city": "Bellingham",
+        "id": "recdXaT5nEag8EODh",
+        "location_ids": [
+            "reciF67XLS2Y7gshk"
+        ],
+        "locations": [
+            "reciF67XLS2Y7gshk"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1155 N. State St.",
+        "city": "Bellingham",
+        "id": "receGzmFkn28lsek9",
+        "location_ids": [
+            "recVmhpdNqyUh5suu"
+        ],
+        "locations": [
+            "recVmhpdNqyUh5suu"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recBEJKNupo0sBupW",
+            "recfjrau493FMcVPT",
+            "rec3LJ6tekrEiz8dB",
+            "rec0V6EBW8aPhPW6W",
+            "recPYq6CyJJQpDTaJ",
+            "recCCRxT22odvfj9Q",
+            "rec851Z3opyR6AsaX"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 522"
+    },
+    {
+        "address_1": "4151 Meridian St.",
+        "id": "receYkNNy15bk8nxt",
+        "location_ids": [
+            "recigU7g7zVB9Qrvr"
+        ],
+        "locations": [
+            "recigU7g7zVB9Qrvr"
+        ],
+        "services": [
+            "recrpPYiHKbUsQdlQ"
+        ]
+    },
+    {
+        "address_1": "214 W. Laurel Rd.",
+        "city": "Bellingham ",
+        "id": "receazporv26kP3th",
+        "location_ids": [
+            "recL1dApOhnb0oitP"
+        ],
+        "locations": [
+            "recL1dApOhnb0oitP"
+        ],
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "819 Camano Ave. ",
+        "city": "Langley",
+        "id": "recenvP64GKcaAAsc",
+        "location_ids": [
+            "recgCxviT9ORMB6uj"
+        ],
+        "locations": [
+            "recgCxviT9ORMB6uj"
+        ],
+        "postal_code": "98260",
+        "state": "WA",
+        "x-address_2": "P.O. Box 334 "
+    },
+    {
+        "address_1": "2510 Sulwhanon Dr.",
+        "city": "Everson",
+        "id": "recf5f4M8PuqunmII",
+        "location_ids": [
+            "rec9AHUvPGp0zD9j1"
+        ],
+        "locations": [
+            "rec9AHUvPGp0zD9j1"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "rec3VBnPrDMDVboIh",
+            "recaFnMcIdOGv1dPS",
+            "recIcVDAMj6tT4gM9",
+            "recjSb3U4L4O9NT61"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "115 Unity St. ",
+        "city": "Bellingham",
+        "id": "recfblQFZTHx4UUd0",
+        "location_ids": [
+            "recHKWkSUTBieyLj6"
+        ],
+        "locations": [
+            "recHKWkSUTBieyLj6"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 302"
+    },
+    {
+        "address_1": "2125 Main St.",
+        "city": "Ferndale",
+        "id": "recfhm35uFnV5gPCa",
+        "location_ids": [
+            "recpjCL9nEv5tcC2D"
+        ],
+        "locations": [
+            "recpjCL9nEv5tcC2D"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recM7dVrhLVvWQhEk",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "315 Halleck St.",
+        "city": "Bellingham",
+        "id": "recfodUWihnVZpFN8",
+        "location_ids": [
+            "recbsDIIJH6B7PUTt"
+        ],
+        "locations": [
+            "recbsDIIJH6B7PUTt"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec1ZUTzXclbLKMAY"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1224 N State St.",
+        "city": "Bellingham",
+        "id": "recfpy0B04ueEJNYU",
+        "location_ids": [
+            "rechzrorn3xjggGWQ"
+        ],
+        "locations": [
+            "rechzrorn3xjggGWQ"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recimuyWH9cSO6ohn"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "98 NE Barron Dr.",
+        "city": "Oak Harbor ",
+        "id": "recfxCAsLjNFbi5lA",
+        "location_ids": [
+            "rec2Zv7uD7SgKkQPs"
+        ],
+        "locations": [
+            "rec2Zv7uD7SgKkQPs"
+        ],
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "124 2nd St.",
+        "city": "Langley",
+        "id": "recgBTLBIMFRy0wft",
+        "location_ids": [
+            "recCluOn2aCUbKQ6I"
+        ],
+        "locations": [
+            "recCluOn2aCUbKQ6I"
+        ],
+        "postal_code": "98260",
+        "state": "WA"
+    },
+    {
+        "address_1": "1720 Ellis St.",
+        "city": "Bellingham",
+        "id": "recgFIGMzzR9RsDpy",
+        "location_ids": [
+            "rec2PqMEicZB9Nh3D"
+        ],
+        "locations": [
+            "rec2PqMEicZB9Nh3D"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 200"
+    },
+    {
+        "address_1": "800 E. Chestnut St.",
+        "city": "Bellingham",
+        "id": "recgKZJIq4dAKkc1t",
+        "location_ids": [
+            "rec7tzqNxYxw8WSk0"
+        ],
+        "locations": [
+            "rec7tzqNxYxw8WSk0"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rechZKVpiAfviJ7oB"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 3-B"
+    },
+    {
+        "address_1": "1400 Larabee Ave.",
+        "city": "Bellingham",
+        "id": "recgLvSmmBWOkBoi6",
+        "location_ids": [
+            "recJ5zPM8r3RAnssU"
+        ],
+        "locations": [
+            "recJ5zPM8r3RAnssU"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "4152 Meridian St.",
+        "city": "Bellingham",
+        "id": "recgMyaDIpWMfRII6",
+        "location_ids": [
+            "recngI19trGDVcT8Y"
+        ],
+        "locations": [
+            "recngI19trGDVcT8Y"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rece24Bagb76MPFGu"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 201"
+    },
+    {
+        "address_1": "8251 Kendall Rd.",
+        "city": "Maple Falls",
+        "id": "recgOBU9mZrklLwmo",
+        "postal_code": "98266",
+        "state": "WA"
+    },
+    {
+        "address_1": "4173 Meridian St. ",
+        "city": "Bellingham ",
+        "id": "recgU79JC78y46Ips",
+        "location_ids": [
+            "recVpucL2kBv9NpSN"
+        ],
+        "locations": [
+            "recVpucL2kBv9NpSN"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "recUCHDdd2Ul7xpik",
+            "rec3vnLYCmjxVlp8R",
+            "reckVKFkJJHA8h9p5",
+            "recreEO0LA7Fh37D5"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2210 Kulshan View Dr. ",
+        "city": "Mt Vernon",
+        "id": "recgkVzKCOqWScjKN",
+        "location_ids": [
+            "recLJqsrO49w0uZes"
+        ],
+        "locations": [
+            "recLJqsrO49w0uZes"
+        ],
+        "postal_code": "98273",
+        "state": "WA",
+        "x-address_2": "Suite 102"
+    },
+    {
+        "address_1": "721 4th Avenue",
+        "city": "Kirkland",
+        "id": "recgme6luUN7837kL",
+        "location_ids": [
+            "recHxLxPIyG1pgECn"
+        ],
+        "locations": [
+            "recHxLxPIyG1pgECn"
+        ],
+        "postal_code": "98033",
+        "services": [
+            "recAHLtnjzNcDYTeX"
+        ],
+        "state": "Washington",
+        "x-address_2": "Unit 891",
+        "x-type": [
+            "Physical Address"
+        ]
+    },
+    {
+        "address_1": "1117 12th St.",
+        "city": "Bellingham",
+        "id": "recgzm8YEtkQuBFXI",
+        "location_ids": [
+            "rec40yLmm5bqV9nXC"
+        ],
+        "locations": [
+            "rec40yLmm5bqV9nXC"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recdJg0Em5PZ7fa1s",
+            "rec1N5u4XGsSR6815",
+            "recUnMCECLm4OR93U",
+            "recDBS8KvNKoFll0K"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "3800 Byron Ave.",
+        "city": "Bellingham",
+        "id": "rechC4H67ApCf9p8t",
+        "location_ids": [
+            "recPdsBitp4v4oecE",
+            "recvQpsFaMqtr0UB0"
+        ],
+        "locations": [
+            "recPdsBitp4v4oecE",
+            "recvQpsFaMqtr0UB0"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "receWiovba3EWvosy"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 122"
+    },
+    {
+        "address_1": "9725 3rd Ave. NE ",
+        "city": "Seattle",
+        "id": "rechgI5pjfvZTwYtp",
+        "location_ids": [
+            "receiPGYzJDdhW0Ag"
+        ],
+        "locations": [
+            "receiPGYzJDdhW0Ag"
+        ],
+        "postal_code": "98115",
+        "state": "WA",
+        "x-address_2": "Suite 400"
+    },
+    {
+        "address_1": "1091 SE Hathaway St.",
+        "city": "Oak Harbor",
+        "id": "rechmJ078VwL7x2k1",
+        "location_ids": [
+            "recAJLnBL5FvOIeCA"
+        ],
+        "locations": [
+            "recAJLnBL5FvOIeCA"
+        ],
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "670 SE Midway Blvd.",
+        "city": "Oak Harbor ",
+        "id": "rechw1cqmpxVsbN73",
+        "postal_code": "98277",
+        "state": "WA"
+    },
+    {
+        "address_1": "237 West Kellogg Rd.",
+        "city": "Bellingham",
+        "id": "reciDTxy7Kn2xuaQP",
+        "location_ids": [
+            "reclVqXe4Qgm6wTBi"
+        ],
+        "locations": [
+            "reclVqXe4Qgm6wTBi"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rec4Hav1ybPJmPAL8"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2111 King St.",
+        "city": "Bellingham",
+        "id": "reciFAab0f6kPZgDX",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "2309 Meridian St.",
+        "city": "Bellingham",
+        "id": "reciSLhWsBQS6tYIs",
+        "location_ids": [
+            "rec0CongcrRm2Tbq4"
+        ],
+        "locations": [
+            "rec0CongcrRm2Tbq4"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "4545 Cordata Pkwy.",
+        "city": "Bellingham",
+        "id": "reciV3zLSNb1NX3T5",
+        "location_ids": [
+            "rec1OU4skk8AJwaLa"
+        ],
+        "locations": [
+            "rec1OU4skk8AJwaLa"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recWiKZwD2RabECoo",
+            "recxSmKwAdIUm60i5",
+            "recvgLerB7uwPlEGi",
+            "reccDgmiaNIZM8bNj"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1115 E. Sunset Dr.",
+        "city": "Bellingham",
+        "id": "recijlr7RkbKyuJWs",
+        "location_ids": [
+            "recZPPzW3MjEDiffW"
+        ],
+        "locations": [
+            "recZPPzW3MjEDiffW"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recaXJjDgkRtKoY85",
+            "recPGDphNdJeAkbIO",
+            "recHRMRLi1UrtcBsF",
+            "reciiMLzT0pX2WRNB"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 105"
+    },
+    {
+        "address_1": "502 C St.",
+        "city": "Blaine",
+        "id": "reciugSIrkYT3reTg",
+        "location_ids": [
+            "recRa4CEtN05MYLAk"
+        ],
+        "locations": [
+            "recRa4CEtN05MYLAk"
+        ],
+        "postal_code": "98230",
+        "state": "WA"
+    },
+    {
+        "address_1": "2665 Kwina Rd.",
+        "city": "Bellingham",
+        "id": "recjEd3xkX2gOBlXa",
+        "location_ids": [
+            "reccL6NEhi4ARIwPt"
+        ],
+        "locations": [
+            "reccL6NEhi4ARIwPt"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recWeysdWt4kbn8NR"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "218 Unity St.",
+        "city": "Bellingham",
+        "id": "recjIWqXyJ6aIbFIx",
+        "location_ids": [
+            "recLcEtxsUE5zQKPx"
+        ],
+        "locations": [
+            "recLcEtxsUE5zQKPx"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "615 2nd Ave.",
+        "id": "recjaVHQFLWSuiJ3I",
+        "location_ids": [
+            "recnQLkqXmQmAQ56k"
+        ],
+        "locations": [
+            "recnQLkqXmQmAQ56k"
+        ],
+        "postal_code": "WA",
+        "region": "98104",
+        "state": "Seattle",
+        "x-address_2": "Suite 400"
+    },
+    {
+        "address_1": "307 S. 13th St. ",
+        "city": "Mount Vernon",
+        "id": "recjeRa9JbPhSZ3XK",
+        "location_ids": [
+            "recSQItIgdq9L54Iz"
+        ],
+        "locations": [
+            "recSQItIgdq9L54Iz"
+        ],
+        "postal_code": "98274",
+        "services": [
+            "reclJeUzO4raRi17U",
+            "recJnK0gwICzCUar4",
+            "recY9iS30KQbZ4qgE",
+            "recNDrtcTNzyaVfaF",
+            "rec4ijdiY3g8RKdPi",
+            "recJQWQP5XqEkSiKC",
+            "recPNE1kFCclHzNaD"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 200"
+    },
+    {
+        "address_1": "1407 Commercial St.",
+        "city": "Bellingham ",
+        "id": "recjk45qtTD3PRjWT",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1515 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recjre01YVUuOGt4X",
+        "location_ids": [
+            "reckxlEclJTzgNCQU"
+        ],
+        "locations": [
+            "reckxlEclJTzgNCQU"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec2e6mgSrioKbM6v",
+            "recE25L511WKUWcX9"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "3600 Meridian St. ",
+        "city": "Bellingham",
+        "id": "recjzmT6hjixJRF8U",
+        "location_ids": [
+            "recvwW0rhFhZqcyri"
+        ],
+        "locations": [
+            "recvwW0rhFhZqcyri"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recjJKQB1UUBLmlW8",
+            "rec11q2xEoXJaQ7z7",
+            "recxJKo9wVj9V3DId",
+            "recmevIsxOttKPw7d",
+            "recIOW3xqF2QZtS6e",
+            "recI10gbGLDS7UqRl"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1530 Ellis St.",
+        "city": "Bellingham",
+        "id": "reck8ziIVgbCueuiw",
+        "location_ids": [
+            "recrpFmoyTPF8CnGb"
+        ],
+        "locations": [
+            "recrpFmoyTPF8CnGb"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recgT0s57vxji2Scj"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "100 E. 2nd St. ",
+        "city": "Everson",
+        "id": "reckRItHS7tGX5Wkb",
+        "location_ids": [
+            "recxivMx5GlgB7AoX"
+        ],
+        "locations": [
+            "recxivMx5GlgB7AoX"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "recNMIbSbLDJ7oPA7"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1419 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "reckSLsZaK6WqyXfM",
+        "location_ids": [
+            "rec4oBe3i2KggrT4W"
+        ],
+        "locations": [
+            "rec4oBe3i2KggrT4W"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recFyIncsxvNMloYJ"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "17544 Midvale Ave. N",
+        "city": "Shoreline",
+        "id": "reckj2olSuvNBME5w",
+        "postal_code": "98133",
+        "state": "WA",
+        "x-address_2": "Suite Lower Level"
+    },
+    {
+        "address_1": "2034 N. Washington St.",
+        "city": "Ferndale",
+        "id": "recku88kpDLaRuzGU",
+        "location_ids": [
+            "recLXU7qIDT3m6R41"
+        ],
+        "locations": [
+            "recLXU7qIDT3m6R41"
+        ],
+        "postal_code": "98248",
+        "state": "WA"
+    },
+    {
+        "address_1": "1701 Gladstone St.",
+        "city": "Bellingham",
+        "id": "recl7aAgxEIRhKXfk",
+        "location_ids": [
+            "recsg48X6glo2EZ0P"
+        ],
+        "locations": [
+            "recsg48X6glo2EZ0P"
+        ],
+        "postal_code": "98229",
+        "state": "WA"
+    },
+    {
+        "address_1": "4120 Meridian St.",
+        "city": "Bellingham",
+        "id": "reclJaWgBHfOJD1Xz",
+        "location_ids": [
+            "rec2E1usNHzLcjYbX"
+        ],
+        "locations": [
+            "rec2E1usNHzLcjYbX"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recftbL076rhM0Vkz",
+            "recxjJiQzgqEa5C74",
+            "rec7bLLKVhDsPBnkn",
+            "recGfqbUwxtPU8EJf"
+        ],
+        "state": "WA",
+        "x-address_2": " Suite 220"
+    },
+    {
+        "address_1": "500 Union St.",
+        "city": "Seattle",
+        "id": "recldg4enGwJn55wV",
+        "location_ids": [
+            "recrmsS0oJ5sdDgO4"
+        ],
+        "locations": [
+            "recrmsS0oJ5sdDgO4"
+        ],
+        "postal_code": "98101",
+        "state": "WA",
+        "x-address_2": " Suite 200"
+    },
+    {
+        "address_1": "311 Grand Ave.",
+        "city": "Bellingham",
+        "id": "reclrxOxejFxOXkZL",
+        "location_ids": [
+            "rec0apkqFnguu73Jv"
+        ],
+        "locations": [
+            "rec0apkqFnguu73Jv"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 501"
+    },
+    {
+        "address_1": "1437 South Jackson St.",
+        "city": "Seattle",
+        "id": "reclxlMwgEPK23tNv",
+        "postal_code": "98144",
+        "state": "WA",
+        "x-address_2": "Suite 302"
+    },
+    {
+        "address_1": "2001 H St.",
+        "city": "Bellingham",
+        "id": "recm6oMdNswT5aVw3",
+        "location_ids": [
+            "recjEPcs881lOxiQ4"
+        ],
+        "locations": [
+            "recjEPcs881lOxiQ4"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1133 Railroad Ave.",
+        "city": "Bellingham",
+        "id": "recma660qJZnKhWiB",
+        "location_ids": [
+            "recWWH4DqvlPceWjm"
+        ],
+        "locations": [
+            "recWWH4DqvlPceWjm"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 100"
+    },
+    {
+        "address_1": "1215 Commercial St.",
+        "city": "Bellingham",
+        "id": "recmjAzWKalmsSnW1",
+        "location_ids": [
+            "recLW8OPIVMakpxXj"
+        ],
+        "locations": [
+            "recLW8OPIVMakpxXj"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reco5f1KujOJSVfSG"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1431 Gulf Rd.",
+        "city": "Point Roberts",
+        "id": "recmpPTH6ixGgY25Q",
+        "location_ids": [
+            "recvUUkk0zhkYlyxL"
+        ],
+        "locations": [
+            "recvUUkk0zhkYlyxL"
+        ],
+        "postal_code": "98281",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recM7dVrhLVvWQhEk",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1515 Birchwood Ave.",
+        "city": "Bellingham",
+        "id": "recnKUxrXHUUfoy02",
+        "location_ids": [
+            "recWBs7E3MFFvEMpU"
+        ],
+        "locations": [
+            "recWBs7E3MFFvEMpU"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "recNvDkGaTdsSosvB",
+            "recmHzztkKTOlNhJF",
+            "rec2owvFkaAS2hcQl"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "635 8th Street",
+        "city": "Blaine",
+        "id": "recnNbrxwaROaDO6I",
+        "location_ids": [
+            "recHPxs2Um2IBJo2R"
+        ],
+        "locations": [
+            "recHPxs2Um2IBJo2R"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "reccsPXWUZymm5nvM"
+        ],
+        "state": "Washington"
+    },
+    {
+        "address_1": "1611 North State St.",
+        "city": "Bellingham",
+        "id": "recnPAen6pGloBdc7",
+        "location_ids": [
+            "recvHrt8kK8ilA1GZ"
+        ],
+        "locations": [
+            "recvHrt8kK8ilA1GZ"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1050 Larrabee Ave.",
+        "city": "Bellingham",
+        "id": "recnzlyEVx9LVUVHZ",
+        "location_ids": [
+            "recB8iV646qkd99Cf"
+        ],
+        "locations": [
+            "recB8iV646qkd99Cf"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Ste. 104 #498"
+    },
+    {
+        "address_1": "PO Box 812",
+        "city": "Langley",
+        "id": "reco6QF9aHFFDeHF0",
+        "location_ids": [
+            "rec44r2E7l6A3aUqj"
+        ],
+        "locations": [
+            "rec44r2E7l6A3aUqj"
+        ],
+        "postal_code": "98260",
+        "state": "WA"
+    },
+    {
+        "address_1": "2030 Benson Rd.",
+        "city": "Point Roberts",
+        "id": "reco79fms1YqfrWha",
+        "location_ids": [
+            "recv1E76Irdpox5cH"
+        ],
+        "locations": [
+            "recv1E76Irdpox5cH"
+        ],
+        "postal_code": "98281",
+        "state": "WA"
+    },
+    {
+        "address_1": "2117 Walnut St.",
+        "city": "Bellingham",
+        "id": "recoEt4XWzNiLTi3B",
+        "location_ids": [
+            "rec2KLZ0feWzsS2IJ",
+            "recJQ6kPoEb3hvd01"
+        ],
+        "locations": [
+            "rec2KLZ0feWzsS2IJ",
+            "recJQ6kPoEb3hvd01"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recoux7pBAyYswdoG"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "950 SE Regatta Dr.",
+        "city": "Oak Harbor",
+        "id": "recoEtcSBa14nYIIH",
+        "location_ids": [
+            "reclbH8ljjlw70TqN"
+        ],
+        "locations": [
+            "reclbH8ljjlw70TqN"
+        ],
+        "postal_code": "98277",
+        "state": "WA",
+        "x-address_2": " Suite 101"
+    },
+    {
+        "address_1": "11042 WA-525 ",
+        "city": "Clinton",
+        "id": "recoF38oeTHnNSbgZ",
+        "location_ids": [
+            "recdmb2po2Jo44D0n"
+        ],
+        "locations": [
+            "recdmb2po2Jo44D0n"
+        ],
+        "postal_code": "98236",
+        "state": "WA"
+    },
+    {
+        "address_1": "PO Box 42525 ",
+        "city": "Olympia",
+        "id": "recot6uoZRBoGxJJB",
+        "location_ids": [
+            "recbQkNPl6ceylGxk"
+        ],
+        "locations": [
+            "recbQkNPl6ceylGxk"
+        ],
+        "postal_code": "98504",
+        "services": [
+            "recJyHN0B1iQf0PyA"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "18341 State Route 525",
+        "city": "Freeland",
+        "id": "recp78ttNa5TLHHwn",
+        "location_ids": [
+            "recG8rY5Q2Dbu8FQG"
+        ],
+        "locations": [
+            "recG8rY5Q2Dbu8FQG"
+        ],
+        "postal_code": "98249",
+        "state": "WA"
+    },
+    {
+        "address_1": "8255 Kendall Rd.",
+        "city": "Maple Falls",
+        "id": "recpEE0VCwdlJl7fQ",
+        "location_ids": [
+            "reccrqJOFsSMlc5jy"
+        ],
+        "locations": [
+            "reccrqJOFsSMlc5jy"
+        ],
+        "postal_code": "98266",
+        "services": [
+            "recGZd6gk0uxQLN3U",
+            "rec7NjNRSYsy9KgF3"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "3015 Squalicum Pkwy.",
+        "city": "Bellingham",
+        "id": "recpICQmwz6v1jrQs",
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 180"
+    },
+    {
+        "address_1": "4137 Bennett Dr.",
+        "city": "Bellingham",
+        "id": "recpSikZawLWUx6Rf",
+        "location_ids": [
+            "reckD1fGqHJ6wVf2V"
+        ],
+        "locations": [
+            "reckD1fGqHJ6wVf2V"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recN241DPuVokERX2"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1701 Ellis St.",
+        "city": "Bellingham",
+        "id": "recpdZn956NEpAs4D",
+        "location_ids": [
+            "recUdyuG8k5mE42cb"
+        ],
+        "locations": [
+            "recUdyuG8k5mE42cb"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 221"
+    },
+    {
+        "address_1": "1706 Front St. ",
+        "city": "Lynden",
+        "id": "recpjX6iDGMuBTCE0",
+        "location_ids": [
+            "recXHPVfHPNGMYi2l"
+        ],
+        "locations": [
+            "recXHPVfHPNGMYi2l"
+        ],
+        "postal_code": "98264",
+        "state": "WA",
+        "x-address_2": "Suite 792"
+    },
+    {
+        "address_1": "909 Squalicum Way",
+        "city": "Bellingham",
+        "id": "recq5W5VEZAjbNx7J",
+        "location_ids": [
+            "rec9VWU5vr7KuvKcs"
+        ],
+        "locations": [
+            "rec9VWU5vr7KuvKcs"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recjxWlalQZBNbw9q",
+            "recOUv2gRNgDYZM7K",
+            "rec8oadXJizEQtCdl"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2116 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recqEeAS4CMEFtAWU",
+        "location_ids": [
+            "recU1aSH79Po5wH4y"
+        ],
+        "locations": [
+            "recU1aSH79Po5wH4y"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recn73qtDPpPVEmKh"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "110 Central Ave.",
+        "city": "Bellngham",
+        "id": "recqFYAvbfM9t68TM",
+        "location_ids": [
+            "recvl0T8nqKkM9mCg"
+        ],
+        "locations": [
+            "recvl0T8nqKkM9mCg"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "3301 Rucker Ave.",
+        "city": "Everett",
+        "id": "recqeaMzgOB1Nl6Uj",
+        "location_ids": [
+            "recnTLXOVtGm2Ya48"
+        ],
+        "locations": [
+            "recnTLXOVtGm2Ya48"
+        ],
+        "postal_code": "98201",
+        "services": [
+            "recxzcLuIZcqgpoPo"
+        ],
+        "state": "WA",
+        "x-address_2": "#4"
+    },
+    {
+        "address_1": "111 W. Main St.",
+        "city": "Everson",
+        "id": "recqfGYFe6TQrQLpe",
+        "location_ids": [
+            "recnKgwkUFWn4eEXQ"
+        ],
+        "locations": [
+            "recnKgwkUFWn4eEXQ"
+        ],
+        "postal_code": "98247",
+        "services": [
+            "rec1EIkv2QEEf6RH4"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "516 High St.",
+        "city": "Bellingham",
+        "id": "recqwjIbtHZ24NO5O",
+        "location_ids": [
+            "recZIyB1MHcUTv1mO"
+        ],
+        "locations": [
+            "recZIyB1MHcUTv1mO"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recljrndiOrBcTWcM"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1310 N. State St.",
+        "city": "Bellingham",
+        "id": "recrAqUCdlEnSdtoQ",
+        "location_ids": [
+            "rec7XGrMd79K9gSWM"
+        ],
+        "locations": [
+            "rec7XGrMd79K9gSWM"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recC8zN0eqmnb1uuF",
+            "recGGt4ugAkdO3XYn"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "232 5th Ave. S",
+        "city": "Kirkland",
+        "id": "recrTyz04j8HNVe8N",
+        "location_ids": [
+            "recuecW8q1whevpCd"
+        ],
+        "locations": [
+            "recuecW8q1whevpCd"
+        ],
+        "postal_code": "98033",
+        "state": "WA",
+        "x-address_2": "Suite 201"
+    },
+    {
+        "address_1": "125 Front St.",
+        "city": "Sumas",
+        "id": "recrgAzmIqvPKdUfT",
+        "location_ids": [
+            "recasnDTCQpOtdNvu"
+        ],
+        "locations": [
+            "recasnDTCQpOtdNvu"
+        ],
+        "postal_code": "98295",
+        "services": [
+            "recKUL3FWrjpsDZ7Y"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "275 SE Pioneer Way ",
+        "city": "Oak Harbor",
+        "id": "recrmmeKWjnjUsLmP",
+        "location_ids": [
+            "rec0MDk8PvoLTrmRF"
+        ],
+        "locations": [
+            "rec0MDk8PvoLTrmRF"
+        ],
+        "postal_code": "98277",
+        "state": "WA",
+        "x-address_2": "Suite 102"
+    },
+    {
+        "address_1": "1625 19th Ave.",
+        "city": "Seattle",
+        "id": "recrnSiDxGC2cmMVm",
+        "location_ids": [
+            "recM0kaAOt9qYjQOe"
+        ],
+        "locations": [
+            "recM0kaAOt9qYjQOe"
+        ],
+        "postal_code": "98122",
+        "services": [
+            "recfgtuk4U9cWO70T"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "3645 E. McLeod Rd.",
+        "city": "Bellingham",
+        "id": "recrsH0viYeWAYnUM",
+        "location_ids": [
+            "recFDl1ZJaOoCcpia"
+        ],
+        "locations": [
+            "recFDl1ZJaOoCcpia"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "rec6JAvIRZ78HD6wH",
+            "recuEUt0LKOCb2kKj",
+            "recWwpIxZLcxhF0hF",
+            "reclhp0B1XGtvd49x"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "205 S. BC Ave.",
+        "city": "Lynden ",
+        "id": "recrsomFH1ykhMFcg",
+        "location_ids": [
+            "recZwysvZPhubn5Z7"
+        ],
+        "locations": [
+            "recZwysvZPhubn5Z7"
+        ],
+        "postal_code": "98264",
+        "services": [
+            "recqj4p8ejsA400ay",
+            "recsuC1HGYymf3woW",
+            "recmLUAgvlWfVOsBH"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 105"
+    },
+    {
+        "address_1": "1329 N. State St. ",
+        "city": "Bellingham",
+        "id": "recrxtdjFvSclDMGS",
+        "location_ids": [
+            "recZUsnIP0K3jmiBF"
+        ],
+        "locations": [
+            "recZUsnIP0K3jmiBF"
+        ],
+        "postal_code": "98225",
+        "state": "WA",
+        "x-address_2": "Suite 304"
+    },
+    {
+        "address_1": "1720 Ellis St.",
+        "city": "Bellingham",
+        "id": "recsCukaKbB19Jrz5",
+        "location_ids": [
+            "rec6kQv6OlehobAAQ"
+        ],
+        "locations": [
+            "rec6kQv6OlehobAAQ"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recGINFQMaTXjVypc"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 100"
+    },
+    {
+        "address_1": "1111 Cornwall Ave.",
+        "city": "Bellingham",
+        "id": "recsE2sexHNATikFp",
+        "location_ids": [
+            "recW7KSYXxHm6L6h6"
+        ],
+        "locations": [
+            "recW7KSYXxHm6L6h6"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recSp82tNyCTHA1Je",
+            "recVdvzc8cMzulgPk"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 200"
+    },
+    {
+        "address_1": "220 Unity St.",
+        "city": "Bellingham ",
+        "id": "recsVpyALBH4Zd8ha",
+        "location_ids": [
+            "recfm8oaXGKIu6SS0"
+        ],
+        "locations": [
+            "recfm8oaXGKIu6SS0"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recdlEWpVbIeLo7y7",
+            "recFK77FyjQPdMNNr",
+            "recOzgLMiNHKmiBAK",
+            "recRYlvYrFWYcOHwd"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2592 Kwina Rd.",
+        "city": "Bellingham",
+        "id": "recsbAiHoWkSKRVgF",
+        "location_ids": [
+            "rec3kO8MQmJKbAv5U"
+        ],
+        "locations": [
+            "rec3kO8MQmJKbAv5U"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "recx1nFKyrVwg6TDN",
+            "recqS4hmwT8CLlYrp",
+            "rec556Sc6spposSqJ"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1715 C Street",
+        "city": "Bellingham",
+        "id": "recsypamNDARWencz",
+        "location_ids": [
+            "recI1mhzqszIjgYQr"
+        ],
+        "locations": [
+            "recI1mhzqszIjgYQr"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recpFt1wmm111VxYH",
+            "rec7uEDo7PybxEVHX"
+        ],
+        "state": "Washington",
+        "x-address_2": "Unit 201"
+    },
+    {
+        "address_1": "4518 Northwest Drive",
+        "city": "Bellingham",
+        "id": "rect9UUHVnd8JHd4L",
+        "location_ids": [
+            "recvyNPRC52PGIvW1"
+        ],
+        "locations": [
+            "recvyNPRC52PGIvW1"
+        ],
+        "postal_code": "28266",
+        "state": "Washington",
+        "x-type": [
+            "Physical Address"
+        ]
+    },
+    {
+        "address_1": "5616 3rd Ave.",
+        "city": "Ferndale",
+        "id": "rectYXh9Ss6PUCjks",
+        "postal_code": "98248",
+        "state": "WA"
+    },
+    {
+        "address_1": "2219 Rimland Dr.",
+        "city": "Bellingham",
+        "id": "rectr4qfY8egbufcb",
+        "location_ids": [
+            "rec4YGMB27QMRlnDv"
+        ],
+        "locations": [
+            "rec4YGMB27QMRlnDv"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec3BBefKIYqSzt4I"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite 419"
+    },
+    {
+        "address_1": "610 3rd St.",
+        "city": "Blaine",
+        "id": "recu0xS2qOIwDwRmJ",
+        "location_ids": [
+            "rectDBMKLwuTbZD7P"
+        ],
+        "locations": [
+            "rectDBMKLwuTbZD7P"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recM7dVrhLVvWQhEk",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "515 Lakeway Dr.",
+        "city": "Bellingham",
+        "id": "recu3CkRt9o4DLi7Y",
+        "location_ids": [
+            "recqPxzBmbXrNfCLP"
+        ],
+        "locations": [
+            "recqPxzBmbXrNfCLP"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recOeihfjkpcWTSdz"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "PO Box 1317",
+        "city": "Bellevue",
+        "id": "recuci8jO48NmGEUg",
+        "location_ids": [
+            "rec7cjQLE7OhBC2lB"
+        ],
+        "locations": [
+            "rec7cjQLE7OhBC2lB"
+        ],
+        "postal_code": "98009",
+        "services": [
+            "recBf6jYWtMlQ3d9y"
+        ],
+        "state": "Washington",
+        "x-type": [
+            "Postal Address"
+        ]
+    },
+    {
+        "address_1": "101 Prospect St.",
+        "city": "Bellingham",
+        "id": "recuizlIOkKHMW5xV",
+        "location_ids": [
+            "recDESGnzuBUhRjPL"
+        ],
+        "locations": [
+            "recDESGnzuBUhRjPL"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recGKY2Cu3S93W9en"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "508 G St.",
+        "city": "Blaine",
+        "id": "recuqZWkbE8AzlLrw",
+        "location_ids": [
+            "recJs5dq0GyGOpCyd"
+        ],
+        "locations": [
+            "recJs5dq0GyGOpCyd"
+        ],
+        "postal_code": "98230",
+        "services": [
+            "reckx08vpi9v03WCp"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1903 Alabama St.",
+        "city": "Belliingham",
+        "id": "recv2Cai30v7K1wu2",
+        "location_ids": [
+            "reclgj0ParkJsstL3"
+        ],
+        "locations": [
+            "reclgj0ParkJsstL3"
+        ],
+        "postal_code": "98226",
+        "services": [
+            "reckti7F6kdybn2Q7",
+            "recrV2fEIQGFdbVjE"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2820 Eldridge Ave.",
+        "city": "Bellingham",
+        "id": "recvGEGWeDzRLLlUZ",
+        "location_ids": [
+            "recmki2cL637pxNCU"
+        ],
+        "locations": [
+            "recmki2cL637pxNCU"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recMygmJdYSmUtCs6"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "4936 Deming Rd",
+        "city": "Deming",
+        "id": "recvV2oze9gx5S80X",
+        "postal_code": "98244",
+        "state": "WA"
+    },
+    {
+        "address_1": "330 Pacific Pl.",
+        "city": "Mt. Vernon",
+        "id": "recw41blB86dJhdRB",
+        "location_ids": [
+            "recZ1ATsCILB9i9db"
+        ],
+        "locations": [
+            "recZ1ATsCILB9i9db"
+        ],
+        "postal_code": "98273",
+        "state": "WA"
+    },
+    {
+        "address_1": "1824 Ellis St.",
+        "city": "Bellingham",
+        "id": "recw5IMrTIGJu5iD5",
+        "location_ids": [
+            "recvzYYKo0hG4nM2c"
+        ],
+        "locations": [
+            "recvzYYKo0hG4nM2c"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recUCHDdd2Ul7xpik"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "2717 Alderwood Ave.",
+        "city": "Bellingham",
+        "id": "recw9QJGbL9UI5nPO",
+        "location_ids": [
+            "rec8aL9bJG2P4WnAz"
+        ],
+        "locations": [
+            "rec8aL9bJG2P4WnAz"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "reciMAUWn3vXUMs3l"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1715 Kentucky Street",
+        "city": "Bellingham",
+        "id": "recw9iPFt4Ge7XPG8",
+        "location_ids": [
+            "recMSEtR5SesnYE7O"
+        ],
+        "locations": [
+            "recMSEtR5SesnYE7O"
+        ],
+        "postal_code": "98229",
+        "services": [
+            "reccsPXWUZymm5nvM"
+        ],
+        "state": "Washington"
+    },
+    {
+        "address_1": "PO Box 4307 ",
+        "city": "Nooksack",
+        "id": "recwBAF4IzcQR3c4N",
+        "postal_code": "98276",
+        "state": "WA"
+    },
+    {
+        "address_1": "3028 Lindbergh Ave.",
+        "id": "recwBj4mM3CUrE2Fd",
+        "location_ids": [
+            "recbphPqxqMIAunSM"
+        ],
+        "locations": [
+            "recbphPqxqMIAunSM"
+        ],
+        "x-address_2": "Building A"
+    },
+    {
+        "address_1": "1301 Fraser St. ",
+        "city": "Bellingham",
+        "id": "recwF4LS5piaVC8dr",
+        "location_ids": [
+            "recGMA3JTjRLOvMtG"
+        ],
+        "locations": [
+            "recGMA3JTjRLOvMtG"
+        ],
+        "postal_code": "98229",
+        "state": "WA",
+        "x-address_2": "Suite A-1"
+    },
+    {
+        "address_1": " 4979 Mt Baker Hwy.",
+        "city": "Deming",
+        "id": "recwYdslYCxwuvBeT",
+        "location_ids": [
+            "recWNhlH6kI05OUEK"
+        ],
+        "locations": [
+            "recWNhlH6kI05OUEK"
+        ],
+        "postal_code": "98244",
+        "services": [
+            "rec5ZaQ9WZJBrq0ih"
+        ],
+        "state": "WA",
+        "x-address_2": "Suite F"
+    },
+    {
+        "address_1": "1430 Garden St.",
+        "city": "Bellingham",
+        "id": "recwgmXP8qyJxtHj3",
+        "location_ids": [
+            "recPvBITczwQr5Iri"
+        ],
+        "locations": [
+            "recPvBITczwQr5Iri"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "1824 Ellis St. ",
+        "city": "Bellingham",
+        "id": "recwhlaf3WbykgDuP",
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "509 Girard St.",
+        "city": "Bellingham",
+        "id": "recxAsvWrDXCv2l7E",
+        "location_ids": [
+            "recve7Wz7WaJXckRt"
+        ],
+        "locations": [
+            "recve7Wz7WaJXckRt"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recWAr22tHT0vXxL1",
+            "recK4P1RH9GeGj8yO"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1999 Cherry St.",
+        "city": "Ferndale",
+        "id": "recxSGXrHkbhXGZYe",
+        "location_ids": [
+            "recJcAlObNf5sPoQg"
+        ],
+        "locations": [
+            "recJcAlObNf5sPoQg"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "recfOyaLJWrpGpudr",
+            "recxLBMESrlZIu0hp"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1603 E. Illinois St.",
+        "city": "Bellingham",
+        "id": "recxsTnKiK94yk6pE",
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "516 Main St.",
+        "city": "Lynden",
+        "id": "recxuSd54xHLiUStT",
+        "postal_code": "98264",
+        "state": "WA",
+        "x-address_2": "Room 30"
+    },
+    {
+        "address_1": "2530 Kwina Rd.",
+        "city": "Bellingham",
+        "id": "recyF9o9XG5sgPX6L",
+        "location_ids": [
+            "recOFgxS0sacCm9vB"
+        ],
+        "locations": [
+            "recOFgxS0sacCm9vB"
+        ],
+        "postal_code": "98226",
+        "state": "WA"
+    },
+    {
+        "address_1": "1671 Main St.",
+        "city": "Ferndale",
+        "id": "recyRzTZAwVDlrZMY",
+        "location_ids": [
+            "recCO61V5UJruwGC9"
+        ],
+        "locations": [
+            "recCO61V5UJruwGC9"
+        ],
+        "postal_code": "98248",
+        "services": [
+            "recnL2mHzdqTo6qHs"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "400 Sequoia Dr.",
+        "city": "Bellingham",
+        "id": "recybmYppBcxPzqly",
+        "location_ids": [
+            "recBSBjn7yjjCiv2r"
+        ],
+        "locations": [
+            "recBSBjn7yjjCiv2r"
+        ],
+        "postal_code": "98226",
+        "state": "WA",
+        "x-address_2": "Suite 120"
+    },
+    {
+        "address_1": "216 4th St.",
+        "city": "Lynden",
+        "id": "recytJ1dygWTHbuw1",
+        "location_ids": [
+            "recvs9qrgAryBHlSW"
+        ],
+        "locations": [
+            "recvs9qrgAryBHlSW"
+        ],
+        "postal_code": "98264",
+        "services": [
+            "reczOyovH31gjAg1a",
+            "rec9bxGoRwOCxcB4K",
+            "recM7dVrhLVvWQhEk",
+            "recWSMRPnCKUx1WEU",
+            "recW7t72sDnr4S2tb"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "7968 Birch Bay Dr.",
+        "city": "Blaine",
+        "id": "recyxlfzutjpc3c6M",
+        "postal_code": "98230",
+        "state": "WA"
+    },
+    {
+        "address_1": "110 Flora St.",
+        "city": "Bellingham",
+        "id": "reczftbtEyy0IfUoJ",
+        "location_ids": [
+            "rec3nYFXgN3bpZU3U"
+        ],
+        "locations": [
+            "rec3nYFXgN3bpZU3U"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "rec44DUKWDPSriqwD"
+        ],
+        "state": "WA"
+    },
+    {
+        "address_1": "1824 Ellis St.",
+        "city": "Bellingham",
+        "id": "reczlom493RKdqudu",
+        "location_ids": [
+            "rechelBXTJyq3hgKR"
+        ],
+        "locations": [
+            "rechelBXTJyq3hgKR"
+        ],
+        "postal_code": "98225",
+        "state": "WA"
+    },
+    {
+        "address_1": "2309 Meridian Street",
+        "city": "Bellingham",
+        "id": "reczyaMWrz2OoXmxr",
+        "location_ids": [
+            "recRjN6HXas0TdyHy"
+        ],
+        "locations": [
+            "recRjN6HXas0TdyHy"
+        ],
+        "postal_code": "98225",
+        "services": [
+            "recF8Pl64aO5wWv2P"
+        ],
+        "state": "Washington",
+        "x-type": [
+            "Physical Address"
+        ]
+    }
+]

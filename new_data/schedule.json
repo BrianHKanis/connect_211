@@ -1,0 +1,4155 @@
+[
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "8 PM",
+        "freq": "Weekly meetings",
+        "id": "rec09DAJEHAOMpxna",
+        "opens_at": "6:30 PM",
+        "valid_from": "September 8 2022",
+        "valid_to": "December 1 2022"
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "rec0xyWmIKZ9X2tOx",
+        "location_ids": [
+            "recvUUkk0zhkYlyxL"
+        ],
+        "locations": [
+            "recvUUkk0zhkYlyxL"
+        ],
+        "opens_at": "1:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec1U0r2kKTPuvQHR",
+        "location_ids": [
+            "recyk3isBsBUh7660"
+        ],
+        "locations": [
+            "recyk3isBsBUh7660"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "description": "Open during the school year only.",
+        "id": "rec1qWNYTVW8kH5ZT",
+        "location_ids": [
+            "rec8aL9bJG2P4WnAz",
+            "rec2dxAXLyeoYPjov"
+        ],
+        "locations": [
+            "rec8aL9bJG2P4WnAz",
+            "rec2dxAXLyeoYPjov"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "reciMAUWn3vXUMs3l"
+        ],
+        "services": [
+            "reciMAUWn3vXUMs3l"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "closes_at": "11:00 PM",
+        "id": "rec2UHehcEUuTpiJc",
+        "location_ids": [
+            "recYXKkfQneM1mhpK"
+        ],
+        "locations": [
+            "recYXKkfQneM1mhpK"
+        ],
+        "opens_at": "6:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec2u0qF1xnR1C5mA",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recUeLAk7vuM1C9Po"
+        ],
+        "services": [
+            "recUeLAk7vuM1C9Po"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "6:00 PM",
+        "description": "Donations accepted until 5:00 PM",
+        "id": "rec3DmiGZ9JC3ZdtG",
+        "location_ids": [
+            "recq7Jg6wRT53LNLI"
+        ],
+        "locations": [
+            "recq7Jg6wRT53LNLI"
+        ],
+        "opens_at": "11:00 AM",
+        "service_ids": [
+            "recqSawi4wQhfVVGS"
+        ],
+        "services": [
+            "recqSawi4wQhfVVGS"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "8:00 PM",
+        "id": "rec3GSzwhJ9NGxwoc",
+        "location_ids": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "locations": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec3j6zltZypVYhLU",
+        "location_ids": [
+            "recA8yV0NCRXOfSWX"
+        ],
+        "locations": [
+            "recA8yV0NCRXOfSWX"
+        ],
+        "opens_at": "7:00 AM"
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "8 PM",
+        "description": "Wednesday meeting takes place online weekly. ",
+        "id": "rec3r00OR7VN2zDNm",
+        "opens_at": "6:30 PM",
+        "service_ids": [
+            "recDAvvSaS1rHnU2h"
+        ],
+        "services": [
+            "recDAvvSaS1rHnU2h"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday",
+            "Sunday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "rec3slvlHPtoaD5so",
+        "location_ids": [
+            "rec1OU4skk8AJwaLa"
+        ],
+        "locations": [
+            "rec1OU4skk8AJwaLa"
+        ],
+        "opens_at": "8:00 AM",
+        "service_at_location": "PeaceHealth Immediate Primary and Urgent Care"
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec4iDxuJ2cidTi2M",
+        "location_ids": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "locations": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "description": "By appointment only",
+        "id": "rec50TrPSuWArebZW",
+        "location_ids": [
+            "recBBD79Ex49Bu76r"
+        ],
+        "locations": [
+            "recBBD79Ex49Bu76r"
+        ]
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec52Opx3jR3LLM7T",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "rec556Sc6spposSqJ"
+        ],
+        "services": [
+            "rec556Sc6spposSqJ"
+        ]
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "rec5PkuiIHUNuo2sL",
+        "location_ids": [
+            "rectDBMKLwuTbZD7P",
+            "rec14rhsQwS3dEFE2",
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "locations": [
+            "rectDBMKLwuTbZD7P",
+            "rec14rhsQwS3dEFE2",
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "5 PM",
+        "id": "rec5alZawho8H5346",
+        "opens_at": "3:30 PM",
+        "service_at_location": "Community workshops every Tuesday. "
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "1:00 PM",
+        "id": "rec5iYRDkPTeemj0J",
+        "location_ids": [
+            "recewlwcCLFdCYSdx"
+        ],
+        "locations": [
+            "recewlwcCLFdCYSdx"
+        ],
+        "opens_at": "11:30 AM",
+        "service_ids": [
+            "recHvUVkLCdxGwiCp"
+        ],
+        "services": [
+            "recHvUVkLCdxGwiCp"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec5rBpBFOuw8ZNTy",
+        "opens_at": "8:00 AM",
+        "phone_ids": [
+            "recrCnKwiZmDy30GH"
+        ],
+        "service_ids": [
+            "recnOtS8qpduDCmEl",
+            "recHSTRoRKGeurJiq",
+            "recliGTQWvkUDAvR1",
+            "recjf5XYMV3z6o7Kf"
+        ],
+        "services": [
+            "recnOtS8qpduDCmEl",
+            "recHSTRoRKGeurJiq",
+            "recliGTQWvkUDAvR1",
+            "recjf5XYMV3z6o7Kf"
+        ],
+        "x-phones": [
+            "recrCnKwiZmDy30GH"
+        ]
+    },
+    {
+        "byday": [
+            "Sunday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "rec6HpZvuN6ckySdz",
+        "location_ids": [
+            "recigU7g7zVB9Qrvr"
+        ],
+        "locations": [
+            "recigU7g7zVB9Qrvr"
+        ],
+        "opens_at": "11:00 AM",
+        "service_ids": [
+            "recrpPYiHKbUsQdlQ"
+        ],
+        "services": [
+            "recrpPYiHKbUsQdlQ"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "rec6MHUFDype1eJTp",
+        "opens_at": "6:00 PM",
+        "service_ids": [
+            "recNJjab2G1bYhuM8"
+        ],
+        "services": [
+            "recNJjab2G1bYhuM8"
+        ]
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "12 PM",
+        "description": "Monday meeting takes place weekly in-person at NAMI Whatcom Office.",
+        "id": "rec6xHmrZwlAae34s",
+        "opens_at": "10:30 AM",
+        "service_ids": [
+            "recDAvvSaS1rHnU2h"
+        ],
+        "services": [
+            "recDAvvSaS1rHnU2h"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "rec70y4Cw4B7XFE3Q",
+        "location_ids": [
+            "recig26HarMMsGvuq"
+        ],
+        "locations": [
+            "recig26HarMMsGvuq"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec74Shv0e4WHxaer",
+        "location_ids": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "locations": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "1 PM",
+        "dtstart": "April 27, 2022",
+        "freq": "Last Tuesday of the Month ",
+        "id": "rec7I1ItaEwWJEMlC",
+        "interval": "Once a month meeting",
+        "opens_at": "12 PM",
+        "service_ids": [
+            "recux6o8y2FKwf4lP"
+        ],
+        "services": [
+            "recux6o8y2FKwf4lP"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "3:30 PM",
+        "description": "The FSC follows the Blaine School District calendar, and is open on scheduled student days.",
+        "id": "rec7c5BAVUFLK2g1f",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recf8RBbNAM4zbePg"
+        ],
+        "services": [
+            "recf8RBbNAM4zbePg"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "1:00 PM",
+        "id": "rec7qRU7b9xeOFfJU",
+        "location_ids": [
+            "recWBs7E3MFFvEMpU"
+        ],
+        "locations": [
+            "recWBs7E3MFFvEMpU"
+        ],
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "recNvDkGaTdsSosvB"
+        ],
+        "services": [
+            "recNvDkGaTdsSosvB"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6 PM",
+        "id": "rec85DfoSwGCPsSR1",
+        "opens_at": "2 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Friday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "rec8bngCOkxhfwfns",
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "reckx08vpi9v03WCp"
+        ],
+        "services": [
+            "reckx08vpi9v03WCp"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "rec8kxcazz0ucG0s9",
+        "opens_at": "8:00 AM",
+        "phone_ids": [
+            "recpCKT7Ax33MWzyr"
+        ],
+        "x-phones": [
+            "recpCKT7Ax33MWzyr"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "rec8lW0T0boXqcZ4r",
+        "opens_at": "5:00 PM",
+        "service_ids": [
+            "reckx08vpi9v03WCp"
+        ],
+        "services": [
+            "reckx08vpi9v03WCp"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rec8o7KVGyOMSURf7",
+        "location_ids": [
+            "recArlXmxEShHy2Ze"
+        ],
+        "locations": [
+            "recArlXmxEShHy2Ze"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "receddVOtLoOt9BdM"
+        ],
+        "services": [
+            "receddVOtLoOt9BdM"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "8 PM",
+        "description": "Meetings take place online every Tuesday of the month (excluding major holidays). The 4th Tuesday meets in-person at NAMI Whatcom Office.",
+        "id": "rec9hXJ1wD4ZtcUpq",
+        "opens_at": "6:30 PM",
+        "service_at_location": "NAMI Connection Recovery Support Group",
+        "service_ids": [
+            "rec6fiI4VhPpjMD6k"
+        ],
+        "services": [
+            "rec6fiI4VhPpjMD6k"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "description": "Closed for lunch on Saturdays from 12:30 - 1:00 PM.",
+        "id": "rec9iq0yHsH7YDR8V",
+        "location_ids": [
+            "recLcEtxsUE5zQKPx"
+        ],
+        "locations": [
+            "recLcEtxsUE5zQKPx"
+        ],
+        "opens_at": "8:30 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recAQnPl2aDtAV8OM",
+        "location_ids": [
+            "recKWIgk2TIaPdP8W"
+        ],
+        "locations": [
+            "recKWIgk2TIaPdP8W"
+        ],
+        "opens_at": "8:30 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recBGLb85akaumbC5",
+        "location_ids": [
+            "recngI19trGDVcT8Y"
+        ],
+        "locations": [
+            "recngI19trGDVcT8Y"
+        ],
+        "opens_at": "7:00 AM",
+        "service_ids": [
+            "rece24Bagb76MPFGu"
+        ],
+        "services": [
+            "rece24Bagb76MPFGu"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "8:00 PM",
+        "id": "recBPXTxjwtaZ8df5",
+        "location_ids": [
+            "rectDBMKLwuTbZD7P",
+            "rec14rhsQwS3dEFE2",
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "locations": [
+            "rectDBMKLwuTbZD7P",
+            "rec14rhsQwS3dEFE2",
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "11:30 AM",
+        "id": "recBQTjkvcxKQ8o5g",
+        "location_ids": [
+            "recOlypQcw46VESpP"
+        ],
+        "locations": [
+            "recOlypQcw46VESpP"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recSEAf5eXiUedCQX"
+        ],
+        "services": [
+            "recSEAf5eXiUedCQX"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recBQowqOeWo41pDc",
+        "opens_at": "7:00 AM",
+        "phone_ids": [
+            "recpzjNswNwcRgzTI"
+        ],
+        "x-phones": [
+            "recpzjNswNwcRgzTI"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "recBS52LCKAlhVA8t",
+        "location_ids": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "locations": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recQxRwSvWvkXtVdi"
+        ],
+        "services": [
+            "recQxRwSvWvkXtVdi"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recBo2fYGfULGjlYt",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recxSmKwAdIUm60i5"
+        ],
+        "services": [
+            "recxSmKwAdIUm60i5"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "2:00 PM",
+        "id": "recBotLot86CLTAsG",
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "receELzXL1ARI6qd3"
+        ],
+        "services": [
+            "receELzXL1ARI6qd3"
+        ]
+    },
+    {
+        "description": "This loc",
+        "id": "recCgDX4WhO8VI6im"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "recCmTOXjgUNUVXfq",
+        "location_ids": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "locations": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "recDAHyb0V0uHJbNQ",
+        "location_ids": [
+            "recmki2cL637pxNCU"
+        ],
+        "locations": [
+            "recmki2cL637pxNCU"
+        ],
+        "opens_at": "11:00 AM",
+        "service_ids": [
+            "recMygmJdYSmUtCs6"
+        ],
+        "services": [
+            "recMygmJdYSmUtCs6"
+        ]
+    },
+    {
+        "byday": [
+            "Sunday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recDEVLlVZFXdmsGW",
+        "location_ids": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "locations": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "opens_at": "1:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recDKwsyCFpUgD2mw",
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recOhNhbvbKVudR5i"
+        ],
+        "services": [
+            "recOhNhbvbKVudR5i"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "9:00 PM",
+        "id": "recDRn06Jhmp5qgr9",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recWiKZwD2RabECoo"
+        ],
+        "services": [
+            "recWiKZwD2RabECoo"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recDZyRsJaX2aRpe0",
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recLkmYEicERqSzIH"
+        ],
+        "services": [
+            "recLkmYEicERqSzIH"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "5 PM",
+        "id": "recDajrMCgK6lpGxJ",
+        "opens_at": "1 PM",
+        "service_at_location": "1st-12th grade afterschool program."
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "11 AM",
+        "id": "recDoH5Ek5FclxtiY",
+        "opens_at": "9 AM",
+        "service_at_location": "GED/high school completion. "
+    },
+    {
+        "byday": [
+            "Saturday",
+            "Sunday"
+        ],
+        "closes_at": "5:15 PM",
+        "id": "recEqeQKqUNyMOXLd",
+        "location_ids": [
+            "recVaJ0XKXHs80L7O"
+        ],
+        "locations": [
+            "recVaJ0XKXHs80L7O"
+        ],
+        "opens_at": "1:00 PM",
+        "service_ids": [
+            "rec8yLsiHAYHoKlhn",
+            "recYSXHi7oGv3pYk5"
+        ],
+        "services": [
+            "rec8yLsiHAYHoKlhn",
+            "recYSXHi7oGv3pYk5"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recEqpeLj7AfFxoAz",
+        "location_ids": [
+            "recw6TuR6G2i1vcvl",
+            "rec40yLmm5bqV9nXC"
+        ],
+        "locations": [
+            "recw6TuR6G2i1vcvl",
+            "rec40yLmm5bqV9nXC"
+        ],
+        "opens_at": "2:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "8:00 PM",
+        "id": "recF2o2kP6ZLTudyH",
+        "location_ids": [
+            "rec1OU4skk8AJwaLa"
+        ],
+        "locations": [
+            "rec1OU4skk8AJwaLa"
+        ],
+        "opens_at": "8:00 AM ",
+        "service_at_location": "PeaceHealth Immediate Primary and Urgent Care"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recFgxeOJxk56TdBx",
+        "location_ids": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "locations": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recQxRwSvWvkXtVdi"
+        ],
+        "services": [
+            "recQxRwSvWvkXtVdi"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "10:00 AM",
+        "id": "recFiflZOKWYPrevo",
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recJKQpXLMF7627X1"
+        ],
+        "services": [
+            "recJKQpXLMF7627X1"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "recG2DOuR6HDAzJK5",
+        "location_ids": [
+            "recOUntYJh544WJSt"
+        ],
+        "locations": [
+            "recOUntYJh544WJSt"
+        ],
+        "opens_at": "12:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recG9XC8LyR36DfUW",
+        "location_ids": [
+            "reciuJmfF1DRHEwv9"
+        ],
+        "locations": [
+            "reciuJmfF1DRHEwv9"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "id": "recGSoPuE1q8cY8Uv",
+        "location_ids": [
+            "recAzQiqNu3sf2NNs"
+        ],
+        "locations": [
+            "recAzQiqNu3sf2NNs"
+        ],
+        "service_at_location": "Appointments with staff, access to services"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "12 PM",
+        "id": "recGoGlBph3jTiRB4",
+        "opens_at": "10 AM",
+        "service_at_location": "ESOL Level 2"
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "8 PM",
+        "dtstart": "April 6, 2023",
+        "id": "recHH1vbrfApKsjrx",
+        "opens_at": "6 PM",
+        "until": "May 25, 2023",
+        "valid_from": "April 6, 2023",
+        "valid_to": "May 25, 2023"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recHYsDMee2GAdHcW",
+        "location_ids": [
+            "recLW8OPIVMakpxXj"
+        ],
+        "locations": [
+            "recLW8OPIVMakpxXj"
+        ],
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "reco5f1KujOJSVfSG"
+        ],
+        "services": [
+            "reco5f1KujOJSVfSG"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recHZuj9mHgojiYnm",
+        "location_ids": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "locations": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "1:00 PM",
+        "id": "recHa9avWIxYap4CA",
+        "location_ids": [
+            "recxivMx5GlgB7AoX"
+        ],
+        "locations": [
+            "recxivMx5GlgB7AoX"
+        ],
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "recNMIbSbLDJ7oPA7"
+        ],
+        "services": [
+            "recNMIbSbLDJ7oPA7"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Friday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recIScyM1vWpwcElV",
+        "location_ids": [
+            "rechT5QSFezCeL6eD"
+        ],
+        "locations": [
+            "rechT5QSFezCeL6eD"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recAKC0Hq8Ihi1vBx"
+        ],
+        "services": [
+            "recAKC0Hq8Ihi1vBx"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "12:15 PM",
+        "id": "recIYOXBq0aXRWhQS",
+        "opens_at": "9:15 AM",
+        "phone_ids": [
+            "recM7tbvZN7tHMRk4"
+        ],
+        "service_at_location": "CLEAR Line",
+        "service_ids": [
+            "reczfgvSebCGYq9oh",
+            "rec5Zq4TArwndKxzs"
+        ],
+        "services": [
+            "reczfgvSebCGYq9oh",
+            "rec5Zq4TArwndKxzs"
+        ],
+        "x-phones": [
+            "recM7tbvZN7tHMRk4"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:30 PM",
+        "id": "recImRtWnTAQ7T0Pc",
+        "location_ids": [
+            "recVmhpdNqyUh5suu"
+        ],
+        "locations": [
+            "recVmhpdNqyUh5suu"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4 PM",
+        "id": "recIxk7N9o9JstzrD",
+        "location_ids": [
+            "recI1mhzqszIjgYQr"
+        ],
+        "locations": [
+            "recI1mhzqszIjgYQr"
+        ],
+        "opens_at": "9 AM",
+        "service_ids": [
+            "recpFt1wmm111VxYH"
+        ],
+        "services": [
+            "recpFt1wmm111VxYH"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "recJFFsJCQ1IFk3E5",
+        "location_ids": [
+            "rec2PqMEicZB9Nh3D"
+        ],
+        "locations": [
+            "rec2PqMEicZB9Nh3D"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recJP6jTqszs3UBAk",
+        "location_ids": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "locations": [
+            "recpjCL9nEv5tcC2D",
+            "recvs9qrgAryBHlSW"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recJPjCAobdcEGTbZ",
+        "location_ids": [
+            "recvzYYKo0hG4nM2c"
+        ],
+        "locations": [
+            "recvzYYKo0hG4nM2c"
+        ],
+        "opens_at": "10:00 AM",
+        "service_at_location": "Food Bank",
+        "service_ids": [
+            "recUCHDdd2Ul7xpik"
+        ],
+        "services": [
+            "recUCHDdd2Ul7xpik"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recJU1ZOhIX72tMME",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "rec2qOLPOyH9hMgu4"
+        ],
+        "services": [
+            "rec2qOLPOyH9hMgu4"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recJtqDcE2A0uqnAz",
+        "location_ids": [
+            "recZwysvZPhubn5Z7"
+        ],
+        "locations": [
+            "recZwysvZPhubn5Z7"
+        ],
+        "opens_at": "3:00 PM",
+        "service_at_location": "Food Bank",
+        "service_ids": [
+            "recqj4p8ejsA400ay"
+        ],
+        "services": [
+            "recqj4p8ejsA400ay"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "description": "Dental closed Thursdays from 7:45 - 8:45 AM",
+        "id": "recK4XyvAy8bm70RQ",
+        "location_ids": [
+            "recfm8oaXGKIu6SS0"
+        ],
+        "locations": [
+            "recfm8oaXGKIu6SS0"
+        ],
+        "opens_at": "7:45 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "3:30 PM",
+        "id": "recKGLUQBpwYF7T8t",
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recbmmX3c4U3s19Pf"
+        ],
+        "services": [
+            "recbmmX3c4U3s19Pf"
+        ]
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "3:30 PM",
+        "description": "Closed the first Friday of each month.",
+        "id": "recKKqszVGYUfzLMZ",
+        "location_ids": [
+            "recHgjN8Wp0Fb63jv"
+        ],
+        "locations": [
+            "recHgjN8Wp0Fb63jv"
+        ],
+        "opens_at": "12:30 PM",
+        "service_at_location": "Food Bank",
+        "service_ids": [
+            "recHnviFpO63x6ur2"
+        ],
+        "services": [
+            "recHnviFpO63x6ur2"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "recKSc0Gza5q1tnpH",
+        "location_ids": [
+            "rechT5QSFezCeL6eD"
+        ],
+        "locations": [
+            "rechT5QSFezCeL6eD"
+        ],
+        "opens_at": "5:00 PM",
+        "service_ids": [
+            "recAKC0Hq8Ihi1vBx"
+        ],
+        "services": [
+            "recAKC0Hq8Ihi1vBx"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recKi5SwrjNmgFhqQ",
+        "location_ids": [
+            "rec3kO8MQmJKbAv5U"
+        ],
+        "locations": [
+            "rec3kO8MQmJKbAv5U"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recKoYK2gYkCDYuv2",
+        "location_ids": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "locations": [
+            "reckd5jJGhXKvQCfG"
+        ],
+        "opens_at": "1:00 PM",
+        "service_ids": [
+            "recQxRwSvWvkXtVdi"
+        ],
+        "services": [
+            "recQxRwSvWvkXtVdi"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday"
+        ],
+        "closes_at": "9:00 PM",
+        "description": "Operates on a schedule similar to Public Schools, taking breaks during Spring, Summer and Winter.",
+        "id": "recLG6gJNClg9HVOk",
+        "location_ids": [
+            "recrL6TORTlEkXW61"
+        ],
+        "locations": [
+            "recrL6TORTlEkXW61"
+        ],
+        "opens_at": "6:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recLMhAe0rX5G3tkd",
+        "location_ids": [
+            "rec6kQv6OlehobAAQ"
+        ],
+        "locations": [
+            "rec6kQv6OlehobAAQ"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6 PM",
+        "id": "recMXRoLNJcyoHyxQ",
+        "opens_at": "2 PM"
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "recMnHDaeTiP6gEjx",
+        "location_ids": [
+            "recrpFmoyTPF8CnGb"
+        ],
+        "locations": [
+            "recrpFmoyTPF8CnGb"
+        ],
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recgT0s57vxji2Scj"
+        ],
+        "services": [
+            "recgT0s57vxji2Scj"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recMo4W3LSfKwbGZu",
+        "location_ids": [
+            "recLcEtxsUE5zQKPx"
+        ],
+        "locations": [
+            "recLcEtxsUE5zQKPx"
+        ],
+        "opens_at": "8:30 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "1:00 PM",
+        "id": "recNHbWwSn0RasI5n",
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recxLBMESrlZIu0hp"
+        ],
+        "services": [
+            "recxLBMESrlZIu0hp"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recNukEz7AOt78ZAH",
+        "location_ids": [
+            "recqOhqUEFA5wusbt"
+        ],
+        "locations": [
+            "recqOhqUEFA5wusbt"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recTYArP4Y4WAPJNp"
+        ],
+        "services": [
+            "recTYArP4Y4WAPJNp"
+        ]
+    },
+    {
+        "closes_at": "5 PM",
+        "dtstart": "October 16 2022",
+        "id": "recNz8BhnQCFxEtYb",
+        "opens_at": "4 PM",
+        "service_at_location": "Mending Babyloss Remembrance Ceremony ",
+        "until": "October 16 2022",
+        "valid_from": "October 16 2022",
+        "valid_to": "October 16 2022"
+    },
+    {
+        "byday": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recO2Zgy1prjiX8Ye",
+        "location_ids": [
+            "rechzrorn3xjggGWQ"
+        ],
+        "locations": [
+            "rechzrorn3xjggGWQ"
+        ],
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recimuyWH9cSO6ohn"
+        ],
+        "services": [
+            "recimuyWH9cSO6ohn"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:30 PM",
+        "id": "recO2visZgCbOBrBe",
+        "location_ids": [
+            "recrpFmoyTPF8CnGb"
+        ],
+        "locations": [
+            "recrpFmoyTPF8CnGb"
+        ],
+        "opens_at": "7:30 AM",
+        "service_ids": [
+            "recgT0s57vxji2Scj"
+        ],
+        "services": [
+            "recgT0s57vxji2Scj"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "recO9Aa1f92wPUDet",
+        "location_ids": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "locations": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "opens_at": "1:00 PM"
+    },
+    {
+        "byday": [
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recOEyRBpwm6nOO81",
+        "location_ids": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "locations": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:15 PM",
+        "id": "recOLmNG8qDUjZeFO",
+        "opens_at": "7:15 AM",
+        "service_at_location": "Childcare",
+        "service_ids": [
+            "recflvVIR7Y5kOYGm"
+        ],
+        "services": [
+            "recflvVIR7Y5kOYGm"
+        ]
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "12:30 PM",
+        "id": "recOftUT3xGVgMroJ",
+        "location_ids": [
+            "recnKgwkUFWn4eEXQ"
+        ],
+        "locations": [
+            "recnKgwkUFWn4eEXQ"
+        ],
+        "opens_at": "9:30 AM",
+        "service_ids": [
+            "rec1EIkv2QEEf6RH4"
+        ],
+        "services": [
+            "rec1EIkv2QEEf6RH4"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recOv2U9IuoMlWZNK",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recsclulVIXBBuZE4",
+            "recDqSPwruqWPvAZk"
+        ],
+        "services": [
+            "recsclulVIXBBuZE4",
+            "recDqSPwruqWPvAZk"
+        ]
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "9:00 PM",
+        "id": "recOyuHLXrQ8TWKMM",
+        "location_ids": [
+            "rec7NGbVYLxm9Ks6T"
+        ],
+        "locations": [
+            "rec7NGbVYLxm9Ks6T"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recYEgvoqx2opSatP"
+        ],
+        "services": [
+            "recYEgvoqx2opSatP"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Saturday"
+        ],
+        "closes_at": "2:00 PM",
+        "id": "recPR04KloQmTmCXm",
+        "location_ids": [
+            "recw6TuR6G2i1vcvl",
+            "rec40yLmm5bqV9nXC"
+        ],
+        "locations": [
+            "recw6TuR6G2i1vcvl",
+            "rec40yLmm5bqV9nXC"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recPirmc69N1z4YQM",
+        "location_ids": [
+            "rectDBMKLwuTbZD7P",
+            "rec14rhsQwS3dEFE2",
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "locations": [
+            "rectDBMKLwuTbZD7P",
+            "rec14rhsQwS3dEFE2",
+            "recrSkRR1Qk1a6NNi"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Saturday",
+            "Sunday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recQ0yi0TAr9LeDj8",
+        "opens_at": "9:00 AM",
+        "phone_ids": [
+            "recpzjNswNwcRgzTI"
+        ],
+        "x-phones": [
+            "recpzjNswNwcRgzTI"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recQ7MDjewv3GSfvL",
+        "location_ids": [
+            "rechlMWQUikusvb5f"
+        ],
+        "locations": [
+            "rechlMWQUikusvb5f"
+        ],
+        "opens_at": "11:00 AM",
+        "service_ids": [
+            "recQOJBQjXeZ266Ug"
+        ],
+        "services": [
+            "recQOJBQjXeZ266Ug"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday",
+            "Saturday"
+        ],
+        "closes_at": "11:00 AM",
+        "id": "recQHl7DrD80rfUW9",
+        "location_ids": [
+            "recCO61V5UJruwGC9"
+        ],
+        "locations": [
+            "recCO61V5UJruwGC9"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recnL2mHzdqTo6qHs"
+        ],
+        "services": [
+            "recnL2mHzdqTo6qHs"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recQsXN8xoS6T47uP",
+        "opens_at": "1:30 PM",
+        "service_ids": [
+            "recWAr22tHT0vXxL1"
+        ],
+        "services": [
+            "recWAr22tHT0vXxL1"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "12 PM",
+        "id": "recR5cyLjcgMp3V3G",
+        "opens_at": "10 AM",
+        "service_at_location": "Job and career workshops offered every Thursday. "
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recRCgpjDimqCag8x",
+        "location_ids": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "locations": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recRWIep2iOqsuO0G",
+        "opens_at": "1:30 PM",
+        "service_ids": [
+            "recWwEmTeQG6WDk83"
+        ],
+        "services": [
+            "recWwEmTeQG6WDk83"
+        ]
+    },
+    {
+        "byday": [
+            "Sunday",
+            "Monday",
+            "Tuesday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recRcoVAMxy6HcHzJ",
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recBwnyE8P3Adl06c"
+        ],
+        "services": [
+            "recBwnyE8P3Adl06c"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "12:30 PM",
+        "id": "recS7byJfQS27NIM1",
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recTHojdbPuxLKFE6"
+        ],
+        "services": [
+            "recTHojdbPuxLKFE6"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recSadzaigfK7RuwU",
+        "location_ids": [
+            "recTg5b1tcsi5WfiR"
+        ],
+        "locations": [
+            "recTg5b1tcsi5WfiR"
+        ],
+        "opens_at": "8:00 AM "
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recSbksla4gj8Tbjt",
+        "opens_at": "8 AM",
+        "service_ids": [
+            "recooWiWVjIhhoT0b"
+        ],
+        "services": [
+            "recooWiWVjIhhoT0b"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "2:30 PM",
+        "description": "Last Saturday of the month January - October",
+        "id": "recSngOWfD5QAidlt",
+        "interval": "Last Saturday of the month, January through October",
+        "opens_at": "11:30 AM",
+        "service_ids": [
+            "recn73qtDPpPVEmKh"
+        ],
+        "services": [
+            "recn73qtDPpPVEmKh"
+        ],
+        "valid_from": "January",
+        "valid_to": "October"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "1:00 PM",
+        "id": "recTByvnQCeRtYS4V",
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recWwEmTeQG6WDk83"
+        ],
+        "services": [
+            "recWwEmTeQG6WDk83"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:30 PM",
+        "id": "recTDftitGbaq1VIS",
+        "opens_at": "2:00 PM",
+        "service_ids": [
+            "recEll2UppRohvL1N"
+        ],
+        "services": [
+            "recEll2UppRohvL1N"
+        ]
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "1:00 PM",
+        "id": "recTLxBro6f610B2I",
+        "interval": "First Friday of each month.",
+        "location_ids": [
+            "recxPFp7YcjP0aEK2"
+        ],
+        "locations": [
+            "recxPFp7YcjP0aEK2"
+        ],
+        "opens_at": "10:00 AM",
+        "service_at_location": "Food Bank",
+        "service_ids": [
+            "recRAGGvXneGryk0Y"
+        ],
+        "services": [
+            "recRAGGvXneGryk0Y"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "8 PM",
+        "dtstart": "January 12, 2023 ",
+        "id": "recTMs7wZM4l2k4UH",
+        "opens_at": "6 PM",
+        "until": "March 2, 2023",
+        "valid_from": "January 12, 2023 ",
+        "valid_to": "March 2, 2023"
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recTz7Fi1nEq8MGub",
+        "opens_at": "5:00 PM",
+        "service_ids": [
+            "rec44DUKWDPSriqwD"
+        ],
+        "services": [
+            "rec44DUKWDPSriqwD"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Thursday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recU2ZO5VlB13e7uR",
+        "location_ids": [
+            "recSiB0E0o3khkVky"
+        ],
+        "locations": [
+            "recSiB0E0o3khkVky"
+        ],
+        "opens_at": "2:00 PM",
+        "service_ids": [
+            "recGF9mPH4Toda1iq"
+        ],
+        "services": [
+            "recGF9mPH4Toda1iq"
+        ]
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "11 AM",
+        "id": "recU9tGIlwya7Y1v4",
+        "opens_at": "10 AM",
+        "service_ids": [
+            "recSonKelQbiKDRef"
+        ],
+        "services": [
+            "recSonKelQbiKDRef"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recUCcjeGRcNaKNO8",
+        "location_ids": [
+            "recM0kaAOt9qYjQOe"
+        ],
+        "locations": [
+            "recM0kaAOt9qYjQOe"
+        ],
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recfgtuk4U9cWO70T"
+        ],
+        "services": [
+            "recfgtuk4U9cWO70T"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "11:00 AM",
+        "id": "recUNs8Bx3OOLozOi",
+        "location_ids": [
+            "recA8yV0NCRXOfSWX"
+        ],
+        "locations": [
+            "recA8yV0NCRXOfSWX"
+        ],
+        "opens_at": "7:00 AM",
+        "service_ids": [
+            "rec6Kj37hcZNFqhrj"
+        ],
+        "services": [
+            "rec6Kj37hcZNFqhrj"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "closes_at": "6 PM",
+        "id": "recUa69yK47QDKoCj",
+        "opens_at": "2 PM",
+        "service_at_location": "1st-12th grade afterschool program."
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recUeUoVKANVlaOd1",
+        "location_ids": [
+            "recnTLXOVtGm2Ya48"
+        ],
+        "locations": [
+            "recnTLXOVtGm2Ya48"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "3 PM",
+        "id": "recV5CCWvscCbnrc5",
+        "opens_at": "9 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "description": "Dental closed Thursdays from 7:45 - 8:45 AM.",
+        "id": "recVEI7emaj7OViPS",
+        "location_ids": [
+            "recPTjQSHhOecMwfp"
+        ],
+        "locations": [
+            "recPTjQSHhOecMwfp"
+        ],
+        "opens_at": "7:45 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "1:00 PM",
+        "id": "recW1ej6sgFHbEC02",
+        "opens_at": "9:30 AM",
+        "service_ids": [
+            "recEll2UppRohvL1N"
+        ],
+        "services": [
+            "recEll2UppRohvL1N"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recWHjdqAfcJerUZ8",
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "4:00 PM",
+        "description": "Friday by appointment",
+        "id": "recWXMS7oUAyNJG4g",
+        "location_ids": [
+            "recZPPzW3MjEDiffW"
+        ],
+        "locations": [
+            "recZPPzW3MjEDiffW"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Sunday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "recWeCK85ysPjS8qr",
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recxSmKwAdIUm60i5"
+        ],
+        "services": [
+            "recxSmKwAdIUm60i5"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recWgpUlJMQPNQFaI",
+        "location_ids": [
+            "reca4YjJVysgk7146"
+        ],
+        "locations": [
+            "reca4YjJVysgk7146"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "12 PM",
+        "id": "recWo9N1eQbiGQ5Bh",
+        "opens_at": "10 AM",
+        "service_at_location": "\"Get a job with a conviction history\" class schedule. "
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "1 PM",
+        "id": "recXHQer3y42KQ5Nm",
+        "opens_at": "12 PM",
+        "service_at_location": "Keyboarding"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recXeb0IohzLvTW3q",
+        "location_ids": [
+            "rec3qg6wjVuUDThtE"
+        ],
+        "locations": [
+            "rec3qg6wjVuUDThtE"
+        ],
+        "opens_at": "2:30 PM"
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "2:00 PM",
+        "id": "recXmSlqjQC0sr4kp",
+        "location_ids": [
+            "recOlypQcw46VESpP"
+        ],
+        "locations": [
+            "recOlypQcw46VESpP"
+        ],
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recSEAf5eXiUedCQX"
+        ],
+        "services": [
+            "recSEAf5eXiUedCQX"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recXqCjQsASATzTen",
+        "opens_at": "9:00 AM",
+        "phone_ids": [
+            "recLFfKu3XzLWnLgN"
+        ],
+        "x-phones": [
+            "recLFfKu3XzLWnLgN"
+        ]
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "8:30 PM",
+        "description": "1st and 3rd Monday of the month",
+        "id": "recYAJzz3Eo93piuT",
+        "opens_at": "6:30 PM",
+        "service_ids": [
+            "recfh45o9LEQQqFHe"
+        ],
+        "services": [
+            "recfh45o9LEQQqFHe"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "1 PM",
+        "id": "recYFnaEFKKpp7mjb",
+        "opens_at": "11 AM",
+        "service_at_location": "Computer and Mobile Basics"
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "bymonthday": "3rd Thursday of the month",
+        "closes_at": "3 PM",
+        "freq": "3rd Thursday of the month",
+        "id": "recYR0enr2z5vOwxT",
+        "opens_at": "1:30 PM",
+        "service_ids": [
+            "recY1CArjt5JfjAdU"
+        ],
+        "services": [
+            "recY1CArjt5JfjAdU"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "8:00 PM",
+        "id": "recYftgNX4j4mGI0l",
+        "location_ids": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "locations": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recYxMlG2Ue4AoisW",
+        "location_ids": [
+            "rec7Ic0exJmwsHyUM"
+        ],
+        "locations": [
+            "rec7Ic0exJmwsHyUM"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recAeR3c4KbW4flNs"
+        ],
+        "services": [
+            "recAeR3c4KbW4flNs"
+        ]
+    },
+    {
+        "id": "recZ0nk3VwbiiMqCA"
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "11:30 AM",
+        "id": "recZLgDKUCoDyWzsd",
+        "interval": "First and third Thursday of each month.",
+        "location_ids": [
+            "reclCNPpkBjDyo8AL"
+        ],
+        "locations": [
+            "reclCNPpkBjDyo8AL"
+        ],
+        "opens_at": "10:00 AM",
+        "service_at_location": "Food Bank"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "recaJKLQFTpFNvwMS",
+        "location_ids": [
+            "recJcAlObNf5sPoQg"
+        ],
+        "locations": [
+            "recJcAlObNf5sPoQg"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recfOyaLJWrpGpudr"
+        ],
+        "services": [
+            "recfOyaLJWrpGpudr"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "description": "Dental closed Thursdays 7:45 - 8:45 AM.",
+        "id": "recaYiAV4zNv6KluT",
+        "location_ids": [
+            "recRWkfQjHuYTJi32"
+        ],
+        "locations": [
+            "recRWkfQjHuYTJi32"
+        ],
+        "opens_at": "7:45 AM"
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recadnQeYOjzlEbfQ",
+        "location_ids": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "locations": [
+            "rec0xWhhSdLZQCGbl"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recavlxA4rLclx0Pe",
+        "location_ids": [
+            "recdjSdENU2iC7XWt"
+        ],
+        "locations": [
+            "recdjSdENU2iC7XWt"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recbq09MgeOln29b2",
+        "location_ids": [
+            "reclGDpXzJxozNp7t"
+        ],
+        "locations": [
+            "reclGDpXzJxozNp7t"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "bymonthday": "1st Thursday of the month",
+        "closes_at": "11:30 AM",
+        "freq": "1st Thursday of the month",
+        "id": "reccB34dK1ZSwT31G",
+        "opens_at": "10 AM",
+        "service_ids": [
+            "recY1CArjt5JfjAdU"
+        ],
+        "services": [
+            "recY1CArjt5JfjAdU"
+        ]
+    },
+    {
+        "closes_at": "3:0",
+        "id": "reccBja5dO2BnD0FZ",
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "recxSmKwAdIUm60i5"
+        ],
+        "services": [
+            "recxSmKwAdIUm60i5"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "reccnI9Sc1NytrSeY",
+        "location_ids": [
+            "recLsXiOfxSAZSAXd"
+        ],
+        "locations": [
+            "recLsXiOfxSAZSAXd"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Wednesday",
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recdL6uNo0IqKRSFb",
+        "location_ids": [
+            "recvUUkk0zhkYlyxL"
+        ],
+        "locations": [
+            "recvUUkk0zhkYlyxL"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "recdZ9wJoRQSeIOP6",
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "reco5f1KujOJSVfSG"
+        ],
+        "services": [
+            "reco5f1KujOJSVfSG"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recdZUPuxuz6xmiJd",
+        "location_ids": [
+            "recVaJ0XKXHs80L7O"
+        ],
+        "locations": [
+            "recVaJ0XKXHs80L7O"
+        ],
+        "opens_at": "6:00 AM",
+        "service_ids": [
+            "rec8yLsiHAYHoKlhn",
+            "recYSXHi7oGv3pYk5"
+        ],
+        "services": [
+            "rec8yLsiHAYHoKlhn",
+            "recYSXHi7oGv3pYk5"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "4 PM",
+        "id": "recdcHJ0DKSaz824j",
+        "opens_at": "2 PM",
+        "service_at_location": "ESOL Level 3 & 4"
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday"
+        ],
+        "closes_at": "8:00 PM",
+        "id": "recdyttAKfHhdFr3C",
+        "location_ids": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "locations": [
+            "recCyM6OfxpT7r2Ji"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "receFYK9lgEEv26Bd",
+        "location_ids": [
+            "recaHTvpft3y3CWcQ"
+        ],
+        "locations": [
+            "recaHTvpft3y3CWcQ"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recerbCimUhaGY8QQ",
+            "recuu4MmCSpQrLNIT"
+        ],
+        "services": [
+            "recerbCimUhaGY8QQ",
+            "recuu4MmCSpQrLNIT"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "receHEemUMw1YMtLW",
+        "location_ids": [
+            "recsg48X6glo2EZ0P",
+            "recPvBITczwQr5Iri"
+        ],
+        "locations": [
+            "recsg48X6glo2EZ0P",
+            "recPvBITczwQr5Iri"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "10:30 AM",
+        "id": "receHZNLeFr7xpGQ5",
+        "location_ids": [
+            "rec2KLZ0feWzsS2IJ"
+        ],
+        "locations": [
+            "rec2KLZ0feWzsS2IJ"
+        ],
+        "opens_at": "9:30 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:30 PM",
+        "id": "receLl08E8AhBvIL3",
+        "location_ids": [
+            "rec2aj33rysnpPqr7"
+        ],
+        "locations": [
+            "rec2aj33rysnpPqr7"
+        ],
+        "opens_at": "7:30 AM",
+        "service_ids": [
+            "reclFQASYIva0KKZP"
+        ],
+        "services": [
+            "reclFQASYIva0KKZP"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "description": "Closed for lunch 12:00 - 1:00 PM. \nClosed on all recognized holidays.",
+        "id": "receNHYv18zzp4otP",
+        "location_ids": [
+            "rec9AHUvPGp0zD9j1",
+            "rechqTLrHMQrZTLSw",
+            "reconBfBFzVY8mv63"
+        ],
+        "locations": [
+            "rec9AHUvPGp0zD9j1",
+            "rechqTLrHMQrZTLSw",
+            "reconBfBFzVY8mv63"
+        ],
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "rec3VBnPrDMDVboIh"
+        ],
+        "services": [
+            "rec3VBnPrDMDVboIh"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recedKYCrL3ra0Vj8",
+        "location_ids": [
+            "recGTaPCE46uS78y2"
+        ],
+        "locations": [
+            "recGTaPCE46uS78y2"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recedfyuivneqpKsK",
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recWAr22tHT0vXxL1"
+        ],
+        "services": [
+            "recWAr22tHT0vXxL1"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recf3ntsEYyJXoqrC",
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "recKUL3FWrjpsDZ7Y"
+        ],
+        "services": [
+            "recKUL3FWrjpsDZ7Y"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5 PM",
+        "id": "recf4TCHk5PfHpqNs",
+        "location_ids": [
+            "recDESGnzuBUhRjPL"
+        ],
+        "locations": [
+            "recDESGnzuBUhRjPL"
+        ],
+        "opens_at": "8 AM",
+        "phone_ids": [
+            "recuANtzS7MW9EVeE"
+        ],
+        "service_ids": [
+            "recGKY2Cu3S93W9en"
+        ],
+        "services": [
+            "recGKY2Cu3S93W9en"
+        ],
+        "x-phones": [
+            "recuANtzS7MW9EVeE"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recf9E44tWghPDTLV",
+        "location_ids": [
+            "recK5rr1wm09AGyuZ"
+        ],
+        "locations": [
+            "recK5rr1wm09AGyuZ"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recfBZSi7QTUNiw5T",
+        "location_ids": [
+            "recVpucL2kBv9NpSN"
+        ],
+        "locations": [
+            "recVpucL2kBv9NpSN"
+        ],
+        "opens_at": "3:00 PM",
+        "service_at_location": "Food Bank",
+        "service_ids": [
+            "recUCHDdd2Ul7xpik"
+        ],
+        "services": [
+            "recUCHDdd2Ul7xpik"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recfllUH10oMd5mhD",
+        "opens_at": "11:00 AM",
+        "service_ids": [
+            "rec556Sc6spposSqJ"
+        ],
+        "services": [
+            "rec556Sc6spposSqJ"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recgH4LDpELLDcKzL",
+        "opens_at": "9:30 AM",
+        "service_ids": [
+            "recmBhewm2Dhl9Zbq"
+        ],
+        "services": [
+            "recmBhewm2Dhl9Zbq"
+        ]
+    },
+    {
+        "byday": [
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "8:30 PM",
+        "id": "recgZARvtM8NpvMgd",
+        "opens_at": "6:00 PM",
+        "service_ids": [
+            "rec8R0aRVn1FGkC1Y"
+        ],
+        "services": [
+            "rec8R0aRVn1FGkC1Y"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Thursday"
+        ],
+        "closes_at": "11:30 AM",
+        "id": "rech31beKPYAYuiUR",
+        "location_ids": [
+            "reckD1fGqHJ6wVf2V"
+        ],
+        "locations": [
+            "reckD1fGqHJ6wVf2V"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recN241DPuVokERX2"
+        ],
+        "services": [
+            "recN241DPuVokERX2"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rechS3WDay84nunaW",
+        "location_ids": [
+            "recV8wW47SknzMghb"
+        ],
+        "locations": [
+            "recV8wW47SknzMghb"
+        ],
+        "opens_at": "8:30 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "3:00 PM",
+        "id": "reci4eQsXTy82Gszj",
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recXgB3JrnT0hGQvs",
+            "recVoClMgdf2US5Yt",
+            "recdWNDvilunbcXaQ"
+        ],
+        "services": [
+            "recXgB3JrnT0hGQvs",
+            "recVoClMgdf2US5Yt",
+            "recdWNDvilunbcXaQ"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "9:00 PM",
+        "id": "reciFF9aYuhPiZgzB",
+        "location_ids": [
+            "recArlXmxEShHy2Ze"
+        ],
+        "locations": [
+            "recArlXmxEShHy2Ze"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "receddVOtLoOt9BdM"
+        ],
+        "services": [
+            "receddVOtLoOt9BdM"
+        ]
+    },
+    {
+        "byday": [
+            "Sunday"
+        ],
+        "closes_at": "6:30 PM",
+        "description": "Third Sunday of each month, except in December, June, July, and August.",
+        "id": "reciafTBMsv6eVjkp",
+        "opens_at": "5:00 PM",
+        "service_ids": [
+            "recf2w4tQNpkNn44E"
+        ],
+        "services": [
+            "recf2w4tQNpkNn44E"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "12:30 PM",
+        "id": "recjZ2tkSsRsR1i70",
+        "location_ids": [
+            "recgZBmhGxBuBZNdW"
+        ],
+        "locations": [
+            "recgZBmhGxBuBZNdW"
+        ],
+        "opens_at": "9:30 AM",
+        "service_ids": [
+            "rec4fTe6x6pfSbhUZ"
+        ],
+        "services": [
+            "rec4fTe6x6pfSbhUZ"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recjbnI9eO2UMZ9BD",
+        "location_ids": [
+            "rec4YGMB27QMRlnDv"
+        ],
+        "locations": [
+            "rec4YGMB27QMRlnDv"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "12:30 PM",
+        "id": "reck1HOmRSIrUKQUM",
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recznQxRJSRoIo3jG"
+        ],
+        "services": [
+            "recznQxRJSRoIo3jG"
+        ]
+    },
+    {
+        "id": "reckTixsJwaM9Zk0F"
+    },
+    {
+        "byday": [
+            "Sunday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "reckkIMkxzRSfvJqi",
+        "location_ids": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "locations": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "opens_at": "1:00 PM"
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "4 PM",
+        "id": "reckkvHffVut55SzB",
+        "opens_at": "2 PM",
+        "service_at_location": "Microsoft Excel & Google Sheets"
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "4:00 PM",
+        "freq": "1st and 3rd Thursday of each month",
+        "id": "recklH71De3RSx34y",
+        "location_ids": [
+            "rec7tzqNxYxw8WSk0"
+        ],
+        "locations": [
+            "rec7tzqNxYxw8WSk0"
+        ],
+        "opens_at": "1:00 PM",
+        "service_ids": [
+            "rechZKVpiAfviJ7oB"
+        ],
+        "services": [
+            "rechZKVpiAfviJ7oB"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recl3VVuth0XtvyvL",
+        "opens_at": "1:00 PM",
+        "phone_ids": [
+            "recLFfKu3XzLWnLgN"
+        ],
+        "x-phones": [
+            "recLFfKu3XzLWnLgN"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "description": "Closed for lunch on Saturdays from 12:30 - 1:30 PM",
+        "id": "recmgI4o2sEas8Ya5",
+        "location_ids": [
+            "recfm8oaXGKIu6SS0"
+        ],
+        "locations": [
+            "recfm8oaXGKIu6SS0"
+        ],
+        "opens_at": "7:45 AM "
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recnYE79cjiqriMxJ",
+        "location_ids": [
+            "recYvK57TunzSySns"
+        ],
+        "locations": [
+            "recYvK57TunzSySns"
+        ],
+        "opens_at": "8:30 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "6:30 PM",
+        "id": "recndw4fqbOFxFmhx",
+        "location_ids": [
+            "rec2E1usNHzLcjYbX"
+        ],
+        "locations": [
+            "rec2E1usNHzLcjYbX"
+        ],
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recHWwWyO3OBI3mu4",
+            "recftbL076rhM0Vkz",
+            "recGfqbUwxtPU8EJf",
+            "rec7bLLKVhDsPBnkn"
+        ],
+        "services": [
+            "recHWwWyO3OBI3mu4",
+            "recftbL076rhM0Vkz",
+            "recGfqbUwxtPU8EJf",
+            "rec7bLLKVhDsPBnkn"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recnk30LcJkkRfI5a",
+        "location_ids": [
+            "recW7KSYXxHm6L6h6"
+        ],
+        "locations": [
+            "recW7KSYXxHm6L6h6"
+        ],
+        "opens_at": "1:00 PM",
+        "service_at_location": "Housing Navigator Drop-in Hours",
+        "service_ids": [
+            "recVdvzc8cMzulgPk"
+        ],
+        "services": [
+            "recVdvzc8cMzulgPk"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "7:00 PM",
+        "id": "recoBiDHXQNIHgFuP",
+        "location_ids": [
+            "recPdsBitp4v4oecE"
+        ],
+        "locations": [
+            "recPdsBitp4v4oecE"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recznCXqjE6qxYT6C"
+        ],
+        "services": [
+            "recznCXqjE6qxYT6C"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "7:30 PM",
+        "id": "recoK8DNvagSwPKcb",
+        "location_ids": [
+            "recxivMx5GlgB7AoX"
+        ],
+        "locations": [
+            "recxivMx5GlgB7AoX"
+        ],
+        "opens_at": "6:30 PM",
+        "service_ids": [
+            "recNMIbSbLDJ7oPA7"
+        ],
+        "services": [
+            "recNMIbSbLDJ7oPA7"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recoSBxzsttdVorKh",
+        "location_ids": [
+            "recvwW0rhFhZqcyri"
+        ],
+        "locations": [
+            "recvwW0rhFhZqcyri"
+        ],
+        "opens_at": "8:30 AM",
+        "phone_ids": [
+            "recwUrngsAppLlsji"
+        ],
+        "x-phones": [
+            "recwUrngsAppLlsji"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "recpiylstAWi6RcMz",
+        "location_ids": [
+            "recoXKDWjFN6H7cY7"
+        ],
+        "locations": [
+            "recoXKDWjFN6H7cY7"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recpyWw7G5fMLyqK1",
+        "location_ids": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "locations": [
+            "recmvhcVPZ8z1OD7t"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recpzqoFP40NT38J8",
+        "location_ids": [
+            "rechzrorn3xjggGWQ"
+        ],
+        "locations": [
+            "rechzrorn3xjggGWQ"
+        ],
+        "opens_at": "11:00 AM",
+        "service_ids": [
+            "recimuyWH9cSO6ohn"
+        ],
+        "services": [
+            "recimuyWH9cSO6ohn"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recqBSFPAnJu7b8tE",
+        "location_ids": [
+            "recSQItIgdq9L54Iz"
+        ],
+        "locations": [
+            "recSQItIgdq9L54Iz"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Friday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recqMDV4WkXrg0l8k",
+        "location_ids": [
+            "recZwysvZPhubn5Z7"
+        ],
+        "locations": [
+            "recZwysvZPhubn5Z7"
+        ],
+        "opens_at": "9:30 AM",
+        "service_at_location": "Food Bank",
+        "service_ids": [
+            "recqj4p8ejsA400ay"
+        ],
+        "services": [
+            "recqj4p8ejsA400ay"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "12:30 PM",
+        "id": "recqof6lvcLvuFaQs",
+        "opens_at": "11:30 AM",
+        "service_ids": [
+            "recYShpfSwPaVCI5L"
+        ],
+        "services": [
+            "recYShpfSwPaVCI5L"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recqvrn2M5wGVvmhA",
+        "location_ids": [
+            "recPdsBitp4v4oecE"
+        ],
+        "locations": [
+            "recPdsBitp4v4oecE"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recznCXqjE6qxYT6C"
+        ],
+        "services": [
+            "recznCXqjE6qxYT6C"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "8 PM",
+        "id": "recqz5k0ay79zjVrR",
+        "opens_at": "6 PM",
+        "service_ids": [
+            "recHXbQCRcCgBasHD"
+        ],
+        "services": [
+            "recHXbQCRcCgBasHD"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "3 PM",
+        "id": "recrCwwQzW6xZVamE",
+        "opens_at": "9 AM",
+        "service_at_location": "Call-in hours for housing office",
+        "service_ids": [
+            "recVoClMgdf2US5Yt",
+            "recdWNDvilunbcXaQ"
+        ],
+        "services": [
+            "recVoClMgdf2US5Yt",
+            "recdWNDvilunbcXaQ"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:30 PM",
+        "id": "recrGAJdLi02KK9AV",
+        "location_ids": [
+            "reclgj0ParkJsstL3"
+        ],
+        "locations": [
+            "reclgj0ParkJsstL3"
+        ],
+        "opens_at": "6:30 AM",
+        "service_at_location": "Toddler Program and Preschool Program. ",
+        "service_ids": [
+            "reckti7F6kdybn2Q7",
+            "recrV2fEIQGFdbVjE"
+        ],
+        "services": [
+            "reckti7F6kdybn2Q7",
+            "recrV2fEIQGFdbVjE"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "6 PM",
+        "id": "recreJTRUcaGbwIS0",
+        "location_ids": [
+            "recRjN6HXas0TdyHy"
+        ],
+        "locations": [
+            "recRjN6HXas0TdyHy"
+        ],
+        "opens_at": "11 AM",
+        "service_ids": [
+            "recF8Pl64aO5wWv2P"
+        ],
+        "services": [
+            "recF8Pl64aO5wWv2P"
+        ]
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "7 PM",
+        "dtstart": "November 1st",
+        "id": "recrqbtmZNpCEtpSV",
+        "opens_at": "6 PM",
+        "until": "March 31st",
+        "valid_from": "November",
+        "valid_to": "March"
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "12:00 PM",
+        "id": "recrxTe4aYB03HQSz",
+        "location_ids": [
+            "reccrqJOFsSMlc5jy"
+        ],
+        "locations": [
+            "reccrqJOFsSMlc5jy"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recGZd6gk0uxQLN3U"
+        ],
+        "services": [
+            "recGZd6gk0uxQLN3U"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recsKtvzLm2MwJZTd",
+        "location_ids": [
+            "recgZBmhGxBuBZNdW"
+        ],
+        "locations": [
+            "recgZBmhGxBuBZNdW"
+        ],
+        "opens_at": "2:00 PM",
+        "service_ids": [
+            "rec4fTe6x6pfSbhUZ"
+        ],
+        "services": [
+            "rec4fTe6x6pfSbhUZ"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recsMqcTuItzRpnuz",
+        "location_ids": [
+            "recqOhqUEFA5wusbt"
+        ],
+        "locations": [
+            "recqOhqUEFA5wusbt"
+        ],
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "recTYArP4Y4WAPJNp"
+        ],
+        "services": [
+            "recTYArP4Y4WAPJNp"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recsSNy98KlOhzDFE",
+        "location_ids": [
+            "recjy18NS1aMkHeJg"
+        ],
+        "locations": [
+            "recjy18NS1aMkHeJg"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "description": "Open 24/7",
+        "id": "recsl5ODeTw2UTz36",
+        "location_ids": [
+            "recKQRbaGvdIucDpI"
+        ],
+        "locations": [
+            "recKQRbaGvdIucDpI"
+        ],
+        "service_ids": [
+            "reci9hxekeJDraNRo"
+        ],
+        "services": [
+            "reci9hxekeJDraNRo"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recsmA19cyxeFPxW7",
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recjd7un5Nvjvei4w"
+        ],
+        "services": [
+            "recjd7un5Nvjvei4w"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Thursday"
+        ],
+        "closes_at": "7 PM",
+        "id": "rect4AOF3x8ZfhjKn",
+        "opens_at": "5 PM",
+        "service_at_location": "GED/high school completion. "
+    },
+    {
+        "byday": [
+            "Wednesday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "rectYptZyjdH9l05O",
+        "location_ids": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "locations": [
+            "rec4A2t1vfhPAZbXj"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "rectdPA5KIzTCgAR0",
+        "location_ids": [
+            "recvQpsFaMqtr0UB0"
+        ],
+        "locations": [
+            "recvQpsFaMqtr0UB0"
+        ],
+        "opens_at": "7:30 AM",
+        "service_ids": [
+            "receWiovba3EWvosy"
+        ],
+        "services": [
+            "receWiovba3EWvosy"
+        ]
+    },
+    {
+        "byday": [
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "rectjik8b2Z0hyOEX",
+        "location_ids": [
+            "recigU7g7zVB9Qrvr"
+        ],
+        "locations": [
+            "recigU7g7zVB9Qrvr"
+        ],
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recrpPYiHKbUsQdlQ"
+        ],
+        "services": [
+            "recrpPYiHKbUsQdlQ"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "rectqbK0OBfIbknnl",
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "recBwnyE8P3Adl06c"
+        ],
+        "services": [
+            "recBwnyE8P3Adl06c"
+        ]
+    },
+    {
+        "byday": [
+            "Friday"
+        ],
+        "closes_at": "10:30 AM",
+        "id": "rectrp1IQHuzoQvRt",
+        "location_ids": [
+            "recxIOCX6isu0dOO8"
+        ],
+        "locations": [
+            "recxIOCX6isu0dOO8"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "rectuYWyxRQR1AVGk",
+        "location_ids": [
+            "recmG18KyyeTXN5CH",
+            "recHPxs2Um2IBJo2R"
+        ],
+        "locations": [
+            "recmG18KyyeTXN5CH",
+            "recHPxs2Um2IBJo2R"
+        ],
+        "opens_at": "2:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "rectwP3ckkng6PIIW",
+        "location_ids": [
+            "recRCQgkivtyv9B9Y"
+        ],
+        "locations": [
+            "recRCQgkivtyv9B9Y"
+        ],
+        "opens_at": "9:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "2 PM",
+        "id": "recu9uROPTe9ob8Vl",
+        "opens_at": "12 PM",
+        "service_at_location": "ESOL Level 1"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recuJlDENwsKUUkVu",
+        "location_ids": [
+            "recbsDIIJH6B7PUTt"
+        ],
+        "locations": [
+            "recbsDIIJH6B7PUTt"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "rec1ZUTzXclbLKMAY"
+        ],
+        "services": [
+            "rec1ZUTzXclbLKMAY"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "8:00 PM",
+        "id": "recucMEoknuzRUHM4",
+        "location_ids": [
+            "recOlypQcw46VESpP"
+        ],
+        "locations": [
+            "recOlypQcw46VESpP"
+        ],
+        "opens_at": "6:30 PM",
+        "service_ids": [
+            "recSEAf5eXiUedCQX"
+        ],
+        "services": [
+            "recSEAf5eXiUedCQX"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recvHNOWn6Vp3jKDb",
+        "location_ids": [
+            "recWBs7E3MFFvEMpU"
+        ],
+        "locations": [
+            "recWBs7E3MFFvEMpU"
+        ],
+        "opens_at": "3:00 PM",
+        "service_ids": [
+            "recNvDkGaTdsSosvB"
+        ],
+        "services": [
+            "recNvDkGaTdsSosvB"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recvh9IwxO401exEv",
+        "location_ids": [
+            "recMSEtR5SesnYE7O"
+        ],
+        "locations": [
+            "recMSEtR5SesnYE7O"
+        ],
+        "opens_at": "1:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "2:30 PM",
+        "id": "recvofhHrGPRMRztw",
+        "opens_at": "1 PM",
+        "service_at_location": "Job Lab class schedule"
+    },
+    {
+        "byday": [
+            "Monday"
+        ],
+        "closes_at": "8 PM",
+        "freq": "Weekly meetings for 8 weeks.",
+        "id": "recvt7jnJnX5rIcEK",
+        "location_ids": [
+            "reclyA39ZhNSgHdnQ"
+        ],
+        "locations": [
+            "reclyA39ZhNSgHdnQ"
+        ],
+        "opens_at": "6 PM",
+        "service_at_location": "Mending Babyloss Support Group meeting space. "
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recvv9Wcpz4M8Y2No",
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recbmmX3c4U3s19Pf"
+        ],
+        "services": [
+            "recbmmX3c4U3s19Pf"
+        ]
+    },
+    {
+        "byday": [
+            "Tuesday"
+        ],
+        "closes_at": "10:00 AM",
+        "id": "recwCSLyug66TE4YO",
+        "opens_at": "9:00 AM",
+        "service_ids": [
+            "recoux7pBAyYswdoG"
+        ],
+        "services": [
+            "recoux7pBAyYswdoG"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4 PM",
+        "id": "recwX7aZ6QSeqoBYp",
+        "location_ids": [
+            "recV2o7nWREWHZB2a"
+        ],
+        "locations": [
+            "recV2o7nWREWHZB2a"
+        ],
+        "opens_at": "9 AM"
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recweUfk5uwFtLSlA",
+        "location_ids": [
+            "rec7NGbVYLxm9Ks6T"
+        ],
+        "locations": [
+            "rec7NGbVYLxm9Ks6T"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recYEgvoqx2opSatP"
+        ],
+        "services": [
+            "recYEgvoqx2opSatP"
+        ]
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "11:30 AM",
+        "id": "recwqi9sYiAKwCuB7",
+        "opens_at": "9:30 AM",
+        "service_at_location": "ESOL Pre-Lit/Basic"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recwtzuZKb4zht7mF",
+        "location_ids": [
+            "reco88nSPjs8vU7XP"
+        ],
+        "locations": [
+            "reco88nSPjs8vU7XP"
+        ],
+        "opens_at": "8:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recwyI7A4I2y7T8cW",
+        "location_ids": [
+            "rechgMR78bp1LFl5Q"
+        ],
+        "locations": [
+            "rechgMR78bp1LFl5Q"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recyVgqwP4iOp4Jqf",
+            "reciGtELnMefdGoYK"
+        ],
+        "services": [
+            "recyVgqwP4iOp4Jqf",
+            "reciGtELnMefdGoYK"
+        ]
+    },
+    {
+        "byday": [
+            "Wednesday"
+        ],
+        "closes_at": "9:00 PM",
+        "id": "recx2WbhnMcGBIztZ",
+        "location_ids": [
+            "recPdsBitp4v4oecE"
+        ],
+        "locations": [
+            "recPdsBitp4v4oecE"
+        ],
+        "opens_at": "8:00 AM",
+        "service_ids": [
+            "recznCXqjE6qxYT6C"
+        ],
+        "services": [
+            "recznCXqjE6qxYT6C"
+        ]
+    },
+    {
+        "byday": [
+            "Saturday"
+        ],
+        "closes_at": "2:30 PM",
+        "id": "recxDnw5ZNIeudKeb",
+        "location_ids": [
+            "recV8wW47SknzMghb"
+        ],
+        "locations": [
+            "recV8wW47SknzMghb"
+        ],
+        "opens_at": "8:30 AM"
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "11:30 AM",
+        "id": "recxNKf4lH6X4rPPN",
+        "opens_at": "10:00 AM",
+        "service_ids": [
+            "recu2qziAeZQPFCVW"
+        ],
+        "services": [
+            "recu2qziAeZQPFCVW"
+        ],
+        "x-special": "First and Third Thursday of each month."
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recyHOuo1ZFhyQz2g",
+        "location_ids": [
+            "recMSEtR5SesnYE7O"
+        ],
+        "locations": [
+            "recMSEtR5SesnYE7O"
+        ],
+        "opens_at": "2:00 PM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "4:30 PM",
+        "id": "recyk24TlJOTR3dFx",
+        "location_ids": [
+            "recve7Wz7WaJXckRt"
+        ],
+        "locations": [
+            "recve7Wz7WaJXckRt"
+        ],
+        "opens_at": "8:30 AM "
+    },
+    {
+        "byday": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "recyo4qqDWb8qxNVJ",
+        "opens_at": "12:00 PM",
+        "service_ids": [
+            "recGqaHrGreIcuNgW"
+        ],
+        "services": [
+            "recGqaHrGreIcuNgW"
+        ]
+    },
+    {
+        "byday": [
+            "Thursday"
+        ],
+        "closes_at": "8 PM",
+        "dtstart": "October 6, 2022",
+        "id": "recyq0pgDdFChRa8d",
+        "opens_at": "6 PM",
+        "until": "December 1, 2022",
+        "valid_from": "October 6, 2022",
+        "valid_to": "December 1, 2022"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Wednesday"
+        ],
+        "closes_at": "6:00 PM",
+        "id": "recz4ySyWtfw6Pus6",
+        "location_ids": [
+            "reca4YjJVysgk7146"
+        ],
+        "locations": [
+            "reca4YjJVysgk7146"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "closes_at": "4:00 PM",
+        "id": "reczIfegrLW9Bx4uf",
+        "location_ids": [
+            "recyCQ9RwSeNl5Txk"
+        ],
+        "locations": [
+            "recyCQ9RwSeNl5Txk"
+        ],
+        "opens_at": "10:00 AM"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5 PM",
+        "id": "reczJ8U8mD3mLQyxv",
+        "location_ids": [
+            "recuPstyQkLSIBI23"
+        ],
+        "locations": [
+            "recuPstyQkLSIBI23"
+        ],
+        "opens_at": "9 AM",
+        "service_at_location": "Mailing address, admin meetings"
+    },
+    {
+        "byday": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "closes_at": "5:00 PM",
+        "id": "reczhA3n0omeQc18J",
+        "location_ids": [
+            "reczoOplcl5sBzJI2"
+        ],
+        "locations": [
+            "reczoOplcl5sBzJI2"
+        ],
+        "opens_at": "8:30 AM",
+        "service_ids": [
+            "recLgJkmBFC5ljfuH"
+        ],
+        "services": [
+            "recLgJkmBFC5ljfuH"
+        ]
+    }
+]
